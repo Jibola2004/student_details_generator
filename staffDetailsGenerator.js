@@ -7,15 +7,20 @@ const generateStaffData = (count) => {
   for (let i = 0; i < count; i++) {
     const firstName = faker.person.firstName();
     const lastName = faker.person.lastName();
+    const gender = faker.person.sex();
     const dept = faker.helpers.arrayElement(['Sciences', 'Arts', 'Commercial', 'Admin', 'Vocational']);
+
+    // Using firstName + lastName as seed for unique, consistent avatars
+    const photoUrl = `https://api.dicebear.com/7.x/avataaars/svg?seed=${firstName}${lastName}`;
 
     staff.push({
       staff_id: `S-${faker.number.int({ min: 1000, max: 9999 })}`,
       personal_info: {
         first_name: firstName,
         last_name: lastName,
+        photo_url: photoUrl,
         dob: faker.date.birthdate({ min: 22, max: 60, mode: 'age' }).toISOString().split('T')[0],
-        gender: faker.person.sex(),
+        gender: gender,
         blood_group: faker.helpers.arrayElement(['A+', 'B+', 'O+', 'O-', 'AB+']),
         religion: faker.helpers.arrayElement(['Christianity', 'Islam'])
       },
@@ -35,7 +40,7 @@ const generateStaffData = (count) => {
         contract_type: faker.helpers.arrayElement(['permanent', 'probation', 'part-time']),
         salary_amount: parseFloat(faker.finance.amount(150000, 500000, 0)),
         currency: "NGN",
-        status: faker.helpers.arrayElement(['active', 'active', 'active', 'on-leave', 'inactive']) // Weighted toward active
+        status: faker.helpers.arrayElement(['active', 'active', 'active', 'on-leave', 'inactive'])
       },
       emergency_contact: {
         full_name: `${faker.person.firstName()} ${lastName}`,
@@ -51,4 +56,4 @@ const generateStaffData = (count) => {
 const data = generateStaffData(100);
 
 fs.writeFileSync('staff_list.json', JSON.stringify(data, null, 2));
-console.log('✅ Generated 100 realistic staff records in staff_list.json');
+console.log('✅ Generated 100 staff records with DiceBear SVG avatars!');

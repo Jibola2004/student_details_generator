@@ -1,3402 +1,3502 @@
 [
   {
-    "staff_id": "S-3822",
+    "staff_id": "S-4939",
     "personal_info": {
-      "first_name": "Kayode",
-      "last_name": "Sekinat",
-      "dob": "2003-09-01",
-      "gender": "female",
-      "blood_group": "O-",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "+234 802 040 9557",
-      "email": "kayode.sekinat@school.edu.ng",
-      "address": {
-        "street": "8843 Funmilade Tunnel",
-        "city": "Animashawun",
-        "state": "Rivers"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Commercial",
-      "hire_date": "2025-02-07",
-      "contract_type": "probation",
-      "salary_amount": 551.14,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Kubra Sekinat",
-      "phone": "+234 802 460 1191",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-2339",
-    "personal_info": {
-      "first_name": "Lolade",
-      "last_name": "Ogunbanwo",
-      "dob": "1990-09-25",
-      "gender": "male",
-      "blood_group": "B+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0803 891 1150",
-      "email": "lolade.ogunbanwo47@school.edu.ng",
-      "address": {
-        "street": "8570 Tobiloba Brook",
-        "city": "Ekoro",
-        "state": "Edo"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Arts",
-      "hire_date": "2024-08-19",
-      "contract_type": "permanent",
-      "salary_amount": 319.25,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Adedayo Ogunbanwo",
-      "phone": "0805394 9628",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-2751",
-    "personal_info": {
-      "first_name": "Abimbola",
-      "last_name": "Ekwueme",
-      "dob": "1975-06-19",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805263 5079",
-      "email": "abimbola.ekwueme@school.edu.ng",
-      "address": {
-        "street": "43404 Emmanuel Squares",
-        "city": "Ikare",
-        "state": "FCT"
-      }
-    },
-    "employment": {
-      "job_title": "Chief Web Administrator",
-      "department": "Admin",
-      "hire_date": "2021-11-15",
-      "contract_type": "probation",
-      "salary_amount": 109.54,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Zainab Ekwueme",
-      "phone": "0803 635 5305",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-8440",
-    "personal_info": {
-      "first_name": "Habiba",
-      "last_name": "Nwuzor",
-      "dob": "1979-11-13",
+      "first_name": "Titilayo",
+      "last_name": "Esther",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=TitilayoEsther",
+      "dob": "1965-06-02",
       "gender": "male",
       "blood_group": "AB+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0805660 6388",
-      "email": "habiba.nwuzor87@school.edu.ng",
-      "address": {
-        "street": "8937 Kayode Flat",
-        "city": "Alaiyabiagba",
-        "state": "Kano"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Commercial",
-      "hire_date": "2017-01-22",
-      "contract_type": "permanent",
-      "salary_amount": 444.47,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Wale Nwuzor",
-      "phone": "+234 802 742 3602",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-2580",
-    "personal_info": {
-      "first_name": "Ifunanya",
-      "last_name": "Muinat",
-      "dob": "1990-09-17",
-      "gender": "female",
-      "blood_group": "O+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0703 096 3419",
-      "email": "ifunanya.muinat37@school.edu.ng",
+      "phone": "+234 802 992 6490",
+      "email": "titilayo_esther94@school.edu.ng",
       "address": {
-        "street": "3730 Agnes Oval",
-        "city": "Ebute-Metta",
+        "street": "550 Remilekun Camp",
+        "city": "Iju Junction",
         "state": "Enugu"
       }
     },
     "employment": {
-      "job_title": "History Teacher",
-      "department": "Vocational",
-      "hire_date": "2016-08-11",
-      "contract_type": "probation",
-      "salary_amount": 56.74,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Funmilade Muinat",
-      "phone": "234809 631 4933",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-5376",
-    "personal_info": {
-      "first_name": "Ifunanya",
-      "last_name": "Ismail",
-      "dob": "1985-06-23",
-      "gender": "male",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "+234 802 939 5204",
-      "email": "ifunanya.ismail60@school.edu.ng",
-      "address": {
-        "street": "118 Ebiere Loop",
-        "city": "Ilugboro",
-        "state": "Delta"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Vocational",
-      "hire_date": "2019-03-04",
-      "contract_type": "permanent",
-      "salary_amount": 37.69,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Damilare Ismail",
-      "phone": "0803 642 6846",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-7898",
-    "personal_info": {
-      "first_name": "Gbeminiyi",
-      "last_name": "Busari",
-      "dob": "1995-05-14",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0805274 7311",
-      "email": "gbeminiyi_busari@school.edu.ng",
-      "address": {
-        "street": "375 Adeboye Corners",
-        "city": "Ilumawfin",
-        "state": "Ogun"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Commercial",
-      "hire_date": "2024-10-15",
-      "contract_type": "probation",
-      "salary_amount": 88.75,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Efe Busari",
-      "phone": "0803 438 1592",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-7371",
-    "personal_info": {
-      "first_name": "Olumide",
-      "last_name": "Aligbe",
-      "dob": "1966-01-17",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0803 348 1027",
-      "email": "olumide_aligbe54@school.edu.ng",
-      "address": {
-        "street": "105 Oluwunmi Ramp",
-        "city": "Gbagidan",
-        "state": "Rivers"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Arts",
-      "hire_date": "2019-12-18",
-      "contract_type": "part-time",
-      "salary_amount": 627.46,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Yakubu Aligbe",
-      "phone": "0703 523 2470",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-7703",
-    "personal_info": {
-      "first_name": "Tobiloba",
-      "last_name": "David",
-      "dob": "1975-03-05",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0805865 4643",
-      "email": "tobiloba_david@school.edu.ng",
-      "address": {
-        "street": "713 Kemi Viaduct",
-        "city": "Adeleye",
-        "state": "Benue"
-      }
-    },
-    "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Vocational",
-      "hire_date": "2019-11-02",
-      "contract_type": "part-time",
-      "salary_amount": 223.59,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Alade David",
-      "phone": "0805093 0127",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-1078",
-    "personal_info": {
-      "first_name": "Danjuma",
-      "last_name": "Adeniyan",
-      "dob": "1980-10-17",
-      "gender": "female",
-      "blood_group": "O+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "234809 683 8753",
-      "email": "danjuma.adeniyan5@school.edu.ng",
-      "address": {
-        "street": "51261 Emmanuel Mission",
-        "city": "Ijaiye",
-        "state": "ABIA"
-      }
-    },
-    "employment": {
-      "job_title": "Lead Identity Orchestrator",
+      "job_title": "Regional Program Orchestrator",
       "department": "Admin",
-      "hire_date": "2025-03-10",
+      "hire_date": "2019-11-11",
       "contract_type": "permanent",
-      "salary_amount": 251.46,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Kayode Adeniyan",
-      "phone": "+234 802 880 8088",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-6068",
-    "personal_info": {
-      "first_name": "Kemi",
-      "last_name": "Olubunmi",
-      "dob": "1991-12-13",
-      "gender": "male",
-      "blood_group": "O+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0703 993 0482",
-      "email": "kemi_olubunmi58@school.edu.ng",
-      "address": {
-        "street": "3035 Olaoluwa Orchard",
-        "city": "Akodo",
-        "state": "Bayelsa"
-      }
-    },
-    "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Commercial",
-      "hire_date": "2023-07-13",
-      "contract_type": "part-time",
-      "salary_amount": 840.28,
+      "salary_amount": 506.48,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Fatima Olubunmi",
-      "phone": "0703 068 3471",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-9039",
-    "personal_info": {
-      "first_name": "Sname",
-      "last_name": "Adeoluwa",
-      "dob": "2003-07-20",
-      "gender": "female",
-      "blood_group": "O+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0703 974 7784",
-      "email": "sname.adeoluwa@school.edu.ng",
-      "address": {
-        "street": "855 Olumide Forge",
-        "city": "Iba",
-        "state": "Bauchi"
-      }
-    },
-    "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Arts",
-      "hire_date": "2020-03-16",
-      "contract_type": "part-time",
-      "salary_amount": 749.36,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Yusuf Adeoluwa",
-      "phone": "234809 027 6608",
+      "full_name": "Ifunanya Esther",
+      "phone": "234809 045 1409",
       "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-4874",
-    "personal_info": {
-      "first_name": "Aminu",
-      "last_name": "Elebiyo",
-      "dob": "2002-03-08",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "+234 802 738 1948",
-      "email": "aminu_elebiyo@school.edu.ng",
-      "address": {
-        "street": "5414 Chisom Prairie",
-        "city": "Abatiwa",
-        "state": "Niger"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Commercial",
-      "hire_date": "2016-05-26",
-      "contract_type": "permanent",
-      "salary_amount": 436.92,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Ayebatari Elebiyo",
-      "phone": "+234 802 436 3062",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-1796",
-    "personal_info": {
-      "first_name": "Kemi",
-      "last_name": "Olasunkanmi-fasayo",
-      "dob": "1966-05-16",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805259 6749",
-      "email": "kemi.olasunkanmi-fasayo@school.edu.ng",
-      "address": {
-        "street": "8565 Akunna Oval",
-        "city": "Igboshere",
-        "state": "Kwara"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Sciences",
-      "hire_date": "2018-11-12",
-      "contract_type": "part-time",
-      "salary_amount": 647.46,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Titi Olasunkanmi-fasayo",
-      "phone": "234809 040 5887",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-4655",
-    "personal_info": {
-      "first_name": "Johnson",
-      "last_name": "Oluwakemi-Osuagwu",
-      "dob": "1995-11-22",
-      "gender": "male",
-      "blood_group": "A+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0803 167 5055",
-      "email": "johnson.oluwakemi-osuagwu87@school.edu.ng",
-      "address": {
-        "street": "660 Bankole Locks",
-        "city": "Iranla",
-        "state": "ABIA"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Arts",
-      "hire_date": "2016-03-19",
-      "contract_type": "permanent",
-      "salary_amount": 432.38,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Rasheedah Oluwakemi-Osuagwu",
-      "phone": "234809 675 4784",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-8385",
-    "personal_info": {
-      "first_name": "Damilare",
-      "last_name": "Mutiat",
-      "dob": "1969-01-29",
-      "gender": "male",
-      "blood_group": "A+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "234809 756 9355",
-      "email": "damilare.mutiat27@school.edu.ng",
-      "address": {
-        "street": "93750 Tari Fort",
-        "city": "Idomu",
-        "state": "ADAMAWA"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Arts",
-      "hire_date": "2020-06-11",
-      "contract_type": "part-time",
-      "salary_amount": 170.85,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Tomiloba Mutiat",
-      "phone": "234809 935 1678",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-4361",
-    "personal_info": {
-      "first_name": "Azubuike",
-      "last_name": "Adeyemo",
-      "dob": "1978-11-10",
-      "gender": "female",
-      "blood_group": "O-",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "+234 802 963 1681",
-      "email": "azubuike_adeyemo@school.edu.ng",
-      "address": {
-        "street": "5595 Agboola Valley",
-        "city": "Ijede",
-        "state": "ADAMAWA"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Commercial",
-      "hire_date": "2016-08-28",
-      "contract_type": "probation",
-      "salary_amount": 659.44,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Abimbola Adeyemo",
-      "phone": "234809 957 1260",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-4019",
-    "personal_info": {
-      "first_name": "Kubura",
-      "last_name": "Oladeji",
-      "dob": "1977-03-20",
-      "gender": "female",
-      "blood_group": "O+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0803 150 6160",
-      "email": "kubura_oladeji9@school.edu.ng",
-      "address": {
-        "street": "4343 Jolayemi Crossing",
-        "city": "Isashi",
-        "state": "Ekiti"
-      }
-    },
-    "employment": {
-      "job_title": "Chief Operations Engineer",
-      "department": "Admin",
-      "hire_date": "2016-08-09",
-      "contract_type": "part-time",
-      "salary_amount": 408.39,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Lolade Oladeji",
-      "phone": "0805239 9486",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-3346",
-    "personal_info": {
-      "first_name": "Musa",
-      "last_name": "Peter",
-      "dob": "1979-01-01",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0803 300 9488",
-      "email": "musa.peter16@school.edu.ng",
-      "address": {
-        "street": "2941 Ayinde Street",
-        "city": "Igbo Fipe",
-        "state": "Ekiti"
-      }
-    },
-    "employment": {
-      "job_title": "Global Usability Producer",
-      "department": "Admin",
-      "hire_date": "2018-12-12",
-      "contract_type": "part-time",
-      "salary_amount": 739.67,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Shalewa Peter",
-      "phone": "0803 245 7730",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-1051",
-    "personal_info": {
-      "first_name": "Tari",
-      "last_name": "Atanda",
-      "dob": "1995-02-20",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0803 985 2907",
-      "email": "tari_atanda34@school.edu.ng",
-      "address": {
-        "street": "5436 Elizabeth Heights",
-        "city": "Ileppaw",
-        "state": "Bayelsa"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Commercial",
-      "hire_date": "2019-07-13",
-      "contract_type": "permanent",
-      "salary_amount": 553.73,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Damilola Atanda",
-      "phone": "234809 823 4246",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-1800",
-    "personal_info": {
-      "first_name": "Uzodimma",
-      "last_name": "Adesina",
-      "dob": "1973-05-29",
-      "gender": "male",
-      "blood_group": "A+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "+234 802 348 3967",
-      "email": "uzodimma.adesina@school.edu.ng",
-      "address": {
-        "street": "89896 Temitope Center",
-        "city": "Agbonyedo",
-        "state": "Sokoto"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Vocational",
-      "hire_date": "2019-01-12",
-      "contract_type": "probation",
-      "salary_amount": 537.31,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Ebiere Adesina",
-      "phone": "0805537 5415",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-2249",
-    "personal_info": {
-      "first_name": "Titilope",
-      "last_name": "Ndukwu-Olasunkanmi-fasayo",
-      "dob": "1977-01-18",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805605 6626",
-      "email": "titilope.ndukwu-olasunkanmi-fasayo81@school.edu.ng",
-      "address": {
-        "street": "850 Kayode Dale",
-        "city": "Hausa",
-        "state": "Ogun"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Sciences",
-      "hire_date": "2021-03-09",
-      "contract_type": "part-time",
-      "salary_amount": 628.26,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Sname Ndukwu-Olasunkanmi-fasayo",
-      "phone": "0805531 5936",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-9551",
-    "personal_info": {
-      "first_name": "Fatima",
-      "last_name": "Onohinosen",
-      "dob": "1996-05-27",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805398 6892",
-      "email": "fatima.onohinosen@school.edu.ng",
-      "address": {
-        "street": "2458 Olufeyikemi Trace",
-        "city": "Ideno",
-        "state": "Kwara"
-      }
-    },
-    "employment": {
-      "job_title": "Global Data Coordinator",
-      "department": "Admin",
-      "hire_date": "2017-02-24",
-      "contract_type": "part-time",
-      "salary_amount": 514.31,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Abisoye Onohinosen",
-      "phone": "234809 824 0361",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-3045",
-    "personal_info": {
-      "first_name": "Jolayemi",
-      "last_name": "Yussuf",
-      "dob": "1995-12-03",
-      "gender": "female",
-      "blood_group": "O-",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0803 966 5113",
-      "email": "jolayemi_yussuf98@school.edu.ng",
-      "address": {
-        "street": "937 Mutiat Creek",
-        "city": "Ijero",
-        "state": "Bayelsa"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Sciences",
-      "hire_date": "2021-02-07",
-      "contract_type": "probation",
-      "salary_amount": 12.3,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Olufunmi Yussuf",
-      "phone": "234809 410 3032",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-6644",
-    "personal_info": {
-      "first_name": "Fatima",
-      "last_name": "Aremu",
-      "dob": "2003-02-25",
-      "gender": "male",
-      "blood_group": "O-",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "234809 400 3567",
-      "email": "fatima_aremu@school.edu.ng",
-      "address": {
-        "street": "48520 Chinyere Island",
-        "city": "Irewe",
-        "state": "FCT"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Commercial",
-      "hire_date": "2025-08-06",
-      "contract_type": "probation",
-      "salary_amount": 841.68,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Abimbola Aremu",
-      "phone": "+234 802 912 0038",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-9724",
+    "staff_id": "S-1774",
     "personal_info": {
       "first_name": "Yusuf",
-      "last_name": "Oyinkansola",
-      "dob": "1985-10-16",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0703 242 3629",
-      "email": "yusuf.oyinkansola@school.edu.ng",
-      "address": {
-        "street": "2231 Jolayemi Knolls",
-        "city": "Ikare",
-        "state": "Edo"
-      }
-    },
-    "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Commercial",
-      "hire_date": "2022-10-18",
-      "contract_type": "permanent",
-      "salary_amount": 306.19,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Kayode Oyinkansola",
-      "phone": "0803 354 5256",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-1751",
-    "personal_info": {
-      "first_name": "Efe",
-      "last_name": "Chidinma",
-      "dob": "1965-02-20",
-      "gender": "female",
-      "blood_group": "AB+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0803 278 3148",
-      "email": "efe_chidinma@school.edu.ng",
-      "address": {
-        "street": "7563 Damilare Ridge",
-        "city": "Aganni",
-        "state": "Kogi"
-      }
-    },
-    "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Sciences",
-      "hire_date": "2017-04-14",
-      "contract_type": "permanent",
-      "salary_amount": 286.64,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Olufunmi Chidinma",
-      "phone": "234809 840 8167",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-9824",
-    "personal_info": {
-      "first_name": "Onome",
-      "last_name": "Oluwanisola",
-      "dob": "1969-08-07",
-      "gender": "male",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805118 2770",
-      "email": "onome.oluwanisola41@school.edu.ng",
-      "address": {
-        "street": "768 Remilekun Grove",
-        "city": "Akobale",
-        "state": "Edo"
-      }
-    },
-    "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Sciences",
-      "hire_date": "2023-09-12",
-      "contract_type": "part-time",
-      "salary_amount": 126.56,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Ifeoma Oluwanisola",
-      "phone": "+234 802 269 9671",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-4765",
-    "personal_info": {
-      "first_name": "Temitope",
-      "last_name": "Aigbiniode",
-      "dob": "1975-06-25",
-      "gender": "female",
-      "blood_group": "O-",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "+234 802 707 9951",
-      "email": "temitope.aigbiniode12@school.edu.ng",
-      "address": {
-        "street": "67522 Chimamanda Place",
-        "city": "Aliayabiagba",
-        "state": "Kwara"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Sciences",
-      "hire_date": "2017-10-18",
-      "contract_type": "permanent",
-      "salary_amount": 981.5,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Chiamaka Aigbiniode",
-      "phone": "0803 439 9680",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-5197",
-    "personal_info": {
-      "first_name": "Oluwunmi",
-      "last_name": "Gbogboade-Abodunrin",
-      "dob": "1990-12-03",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "234809 092 3699",
-      "email": "oluwunmi.gbogboade-abodunrin23@school.edu.ng",
-      "address": {
-        "street": "2899 Uchechi Rue",
-        "city": "Ayobo",
-        "state": "Kwara"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Commercial",
-      "hire_date": "2019-06-20",
-      "contract_type": "probation",
-      "salary_amount": 710.92,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Gbeminiyi Gbogboade-Abodunrin",
-      "phone": "0805235 1645",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-2637",
-    "personal_info": {
-      "first_name": "Azubuike",
-      "last_name": "Amaechi",
-      "dob": "1984-06-25",
-      "gender": "male",
-      "blood_group": "O+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "234809 401 6509",
-      "email": "azubuike_amaechi82@school.edu.ng",
-      "address": {
-        "street": "3453 Fatima Spur",
-        "city": "George",
-        "state": "Nasarawa"
-      }
-    },
-    "employment": {
-      "job_title": "Dynamic Division Analyst",
-      "department": "Admin",
-      "hire_date": "2019-07-16",
-      "contract_type": "probation",
-      "salary_amount": 846.68,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Rotimi Amaechi",
-      "phone": "0805375 5027",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-9969",
-    "personal_info": {
-      "first_name": "Ebiowei",
-      "last_name": "Busari",
-      "dob": "1993-06-30",
-      "gender": "female",
-      "blood_group": "O-",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0803 450 5645",
-      "email": "ebiowei_busari@school.edu.ng",
-      "address": {
-        "street": "381 Oluwanisola Mount",
-        "city": "Ilemere",
-        "state": "Rivers"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Sciences",
-      "hire_date": "2020-09-21",
-      "contract_type": "probation",
-      "salary_amount": 480.25,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Abisola Busari",
-      "phone": "234809 796 4096",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-3921",
-    "personal_info": {
-      "first_name": "Tope",
-      "last_name": "Aderonke",
-      "dob": "1996-08-27",
-      "gender": "male",
-      "blood_group": "O+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0803 045 6902",
-      "email": "tope.aderonke@school.edu.ng",
-      "address": {
-        "street": "93010 Titilayo Landing",
-        "city": "Iworo",
-        "state": "Bornu"
-      }
-    },
-    "employment": {
-      "job_title": "Senior Division Producer",
-      "department": "Admin",
-      "hire_date": "2016-12-03",
-      "contract_type": "probation",
-      "salary_amount": 839.92,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Adaugo Aderonke",
-      "phone": "234809 033 3724",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-3557",
-    "personal_info": {
-      "first_name": "Tobiloba",
       "last_name": "Olubukola",
-      "dob": "1998-02-14",
-      "gender": "female",
-      "blood_group": "AB+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "234809 273 8859",
-      "email": "tobiloba.olubukola@school.edu.ng",
-      "address": {
-        "street": "9615 Omobolanle Lodge",
-        "city": "Abule-Nla",
-        "state": "Akwa Ibom"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Arts",
-      "hire_date": "2024-12-20",
-      "contract_type": "probation",
-      "salary_amount": 133.02,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Olumide Olubukola",
-      "phone": "+234 802 524 3656",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-2088",
-    "personal_info": {
-      "first_name": "Sekinat",
-      "last_name": "Amaechi",
-      "dob": "1995-04-12",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805305 2253",
-      "email": "sekinat.amaechi23@school.edu.ng",
-      "address": {
-        "street": "987 Abimbola Alley",
-        "city": "Ago Egun",
-        "state": "Kebbi"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Sciences",
-      "hire_date": "2021-11-30",
-      "contract_type": "probation",
-      "salary_amount": 670.53,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Fatima Amaechi",
-      "phone": "0703 679 2378",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-7560",
-    "personal_info": {
-      "first_name": "Temitope",
-      "last_name": "Olawale",
-      "dob": "1975-11-23",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805490 3670",
-      "email": "temitope_olawale57@school.edu.ng",
-      "address": {
-        "street": "824 Egbochukwu Harbor",
-        "city": "Ebute-Egga",
-        "state": "Kaduna"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Arts",
-      "hire_date": "2022-02-03",
-      "contract_type": "probation",
-      "salary_amount": 504.96,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Cherechi Olawale",
-      "phone": "0805148 5758",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-7125",
-    "personal_info": {
-      "first_name": "Ikenna",
-      "last_name": "Justina",
-      "dob": "1966-10-06",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0803 254 5060",
-      "email": "ikenna.justina@school.edu.ng",
-      "address": {
-        "street": "138 Danjuma Freeway",
-        "city": "Ilumawfin",
-        "state": "Ogun"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Vocational",
-      "hire_date": "2017-03-02",
-      "contract_type": "part-time",
-      "salary_amount": 654.22,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Ebiere Justina",
-      "phone": "+234 802 891 3151",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-4978",
-    "personal_info": {
-      "first_name": "Ikenna",
-      "last_name": "Sylvester",
-      "dob": "1968-02-23",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0803 792 3831",
-      "email": "ikenna_sylvester50@school.edu.ng",
-      "address": {
-        "street": "366 Miracle Gateway",
-        "city": "Agonu",
-        "state": "Ogun"
-      }
-    },
-    "employment": {
-      "job_title": "Dynamic Usability Strategist",
-      "department": "Admin",
-      "hire_date": "2020-07-20",
-      "contract_type": "part-time",
-      "salary_amount": 815.94,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Banji Sylvester",
-      "phone": "0703 567 5111",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-9723",
-    "personal_info": {
-      "first_name": "Gbemisola",
-      "last_name": "Adegboye",
-      "dob": "1978-05-19",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "+234 802 289 3570",
-      "email": "gbemisola.adegboye35@school.edu.ng",
-      "address": {
-        "street": "19131 Esse View",
-        "city": "Alasia",
-        "state": "Kogi"
-      }
-    },
-    "employment": {
-      "job_title": "Customer Paradigm Executive",
-      "department": "Admin",
-      "hire_date": "2020-10-09",
-      "contract_type": "permanent",
-      "salary_amount": 1.53,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Ireti Adegboye",
-      "phone": "0703 873 1803",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-4350",
-    "personal_info": {
-      "first_name": "Toluwani",
-      "last_name": "Omobolanle",
-      "dob": "1982-07-01",
-      "gender": "female",
-      "blood_group": "O+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0805577 2397",
-      "email": "toluwani_omobolanle20@school.edu.ng",
-      "address": {
-        "street": "7949 Musa Forks",
-        "city": "Bassa",
-        "state": "Edo"
-      }
-    },
-    "employment": {
-      "job_title": "Lead Usability Strategist",
-      "department": "Admin",
-      "hire_date": "2025-11-11",
-      "contract_type": "probation",
-      "salary_amount": 91.27,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Gbeminiyi Omobolanle",
-      "phone": "+234 802 888 9249",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-4307",
-    "personal_info": {
-      "first_name": "Chinedu",
-      "last_name": "Akintade",
-      "dob": "1975-04-14",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "+234 802 078 0632",
-      "email": "chinedu.akintade65@school.edu.ng",
-      "address": {
-        "street": "349 Makinwa Club",
-        "city": "Ipaja",
-        "state": "Kogi"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Vocational",
-      "hire_date": "2020-01-01",
-      "contract_type": "probation",
-      "salary_amount": 529.89,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Chinyere Akintade",
-      "phone": "234809 503 7620",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-1382",
-    "personal_info": {
-      "first_name": "Alade",
-      "last_name": "Olumide",
-      "dob": "1996-02-12",
-      "gender": "male",
-      "blood_group": "O+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0803 200 0462",
-      "email": "alade_olumide@school.edu.ng",
-      "address": {
-        "street": "90296 Akunna Groves",
-        "city": "Ishersi",
-        "state": "Taraba"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Commercial",
-      "hire_date": "2021-08-20",
-      "contract_type": "probation",
-      "salary_amount": 620.24,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Bukola Olumide",
-      "phone": "234809 983 8472",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-1568",
-    "personal_info": {
-      "first_name": "Jolayemi",
-      "last_name": "Katherine",
-      "dob": "1994-03-06",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=YusufOlubukola",
+      "dob": "1993-01-29",
       "gender": "female",
       "blood_group": "O-",
-      "religion": "Islam"
+      "religion": "Christianity"
     },
     "contact": {
-      "phone": "0803 803 0355",
-      "email": "jolayemi_katherine@school.edu.ng",
+      "phone": "234809 622 7659",
+      "email": "yusuf.olubukola1@school.edu.ng",
       "address": {
-        "street": "87409 Kimberly Dam",
-        "city": "Agbelekale",
-        "state": "Benue"
+        "street": "51895 Kubura Shoals",
+        "city": "Isagatedo",
+        "state": "Enugu"
       }
     },
     "employment": {
       "job_title": "Biology Teacher",
-      "department": "Commercial",
-      "hire_date": "2017-11-21",
-      "contract_type": "part-time",
-      "salary_amount": 8.16,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Kemi Katherine",
-      "phone": "234809 586 9854",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-1949",
-    "personal_info": {
-      "first_name": "Musa",
-      "last_name": "Mutiat",
-      "dob": "1975-05-29",
-      "gender": "male",
-      "blood_group": "A+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0703 557 5498",
-      "email": "musa.mutiat@school.edu.ng",
-      "address": {
-        "street": "856 Titilope Forks",
-        "city": "Alago",
-        "state": "Kebbi"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Arts",
-      "hire_date": "2019-06-01",
-      "contract_type": "part-time",
-      "salary_amount": 661.83,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Chimamanda Mutiat",
-      "phone": "+234 802 914 3945",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-4055",
-    "personal_info": {
-      "first_name": "Kubura",
-      "last_name": "Wasiu",
-      "dob": "1997-10-07",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "234809 361 8821",
-      "email": "kubura_wasiu@school.edu.ng",
-      "address": {
-        "street": "92973 Uzodimma Canyon",
-        "city": "Arida",
-        "state": "Nasarawa"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Arts",
-      "hire_date": "2023-01-16",
+      "department": "Sciences",
+      "hire_date": "2017-04-21",
       "contract_type": "permanent",
-      "salary_amount": 865.57,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Chinyere Wasiu",
-      "phone": "0803 599 2578",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-7089",
-    "personal_info": {
-      "first_name": "Adeboye",
-      "last_name": "Tella",
-      "dob": "2001-08-20",
-      "gender": "male",
-      "blood_group": "O-",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0703 179 8734",
-      "email": "adeboye.tella7@school.edu.ng",
-      "address": {
-        "street": "470 Bankole Walk",
-        "city": "Imeke",
-        "state": "Bayelsa"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Vocational",
-      "hire_date": "2020-12-04",
-      "contract_type": "part-time",
-      "salary_amount": 171.65,
+      "salary_amount": 52.78,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Efe Tella",
-      "phone": "0703 088 9590",
-      "relationship": "Spouse"
+      "full_name": "Musa Olubukola",
+      "phone": "+234 802 505 5614",
+      "relationship": "Sibling"
     }
   },
   {
-    "staff_id": "S-4759",
+    "staff_id": "S-4158",
     "personal_info": {
-      "first_name": "Ayebatari",
-      "last_name": "David",
-      "dob": "1973-03-21",
-      "gender": "male",
-      "blood_group": "B+",
+      "first_name": "Akande",
+      "last_name": "Egbochukwu-Chidozie",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AkandeEgbochukwu-Chidozie",
+      "dob": "1974-12-10",
+      "gender": "female",
+      "blood_group": "O+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0805330 8124",
-      "email": "ayebatari.david@school.edu.ng",
+      "phone": "+234 802 548 2737",
+      "email": "akande_egbochukwu-chidozie@school.edu.ng",
       "address": {
-        "street": "21154 Damilola Place",
-        "city": "Iganmu Siding",
+        "street": "1508 Rotimi Inlet",
+        "city": "Ikoga Ile",
         "state": "Jigawa"
       }
     },
     "employment": {
       "job_title": "History Teacher",
-      "department": "Sciences",
-      "hire_date": "2025-10-18",
+      "department": "Commercial",
+      "hire_date": "2020-05-08",
       "contract_type": "permanent",
-      "salary_amount": 373.21,
+      "salary_amount": 433.06,
       "currency": "NGN",
-      "status": "inactive"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Banji David",
-      "phone": "0805497 6206",
-      "relationship": "Sibling"
+      "full_name": "Azubuike Egbochukwu-Chidozie",
+      "phone": "0805550 2067",
+      "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-7274",
+    "staff_id": "S-6893",
     "personal_info": {
-      "first_name": "Sekinat",
-      "last_name": "Afolabi",
-      "dob": "1981-10-08",
+      "first_name": "Johnson",
+      "last_name": "Babalola",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=JohnsonBabalola",
+      "dob": "1989-08-30",
       "gender": "female",
       "blood_group": "AB+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "234809 897 9031",
-      "email": "sekinat.afolabi@school.edu.ng",
+      "phone": "234809 742 5749",
+      "email": "johnson_babalola90@school.edu.ng",
       "address": {
-        "street": "8848 Chidozie Rapids",
-        "city": "Bamgboshe",
-        "state": "Kogi"
+        "street": "733 Temitope Corner",
+        "city": "Ebute Leki",
+        "state": "Ondo"
       }
     },
     "employment": {
-      "job_title": "Math Teacher",
-      "department": "Sciences",
-      "hire_date": "2023-07-14",
+      "job_title": "Corporate Group Orchestrator",
+      "department": "Admin",
+      "hire_date": "2021-11-13",
       "contract_type": "permanent",
-      "salary_amount": 941.88,
+      "salary_amount": 777.76,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Abimbola Afolabi",
-      "phone": "0805321 5463",
+      "full_name": "Olumide Babalola",
+      "phone": "234809 031 9224",
       "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-1050",
+    "staff_id": "S-2909",
     "personal_info": {
-      "first_name": "Buchi",
-      "last_name": "Oladeji",
-      "dob": "1987-07-12",
+      "first_name": "Remilekun",
+      "last_name": "Yussuf",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=RemilekunYussuf",
+      "dob": "1997-01-28",
+      "gender": "male",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 398 9964",
+      "email": "remilekun_yussuf@school.edu.ng",
+      "address": {
+        "street": "1391 Tolulope Stravenue",
+        "city": "Ide",
+        "state": "Bayelsa"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Vocational",
+      "hire_date": "2020-05-22",
+      "contract_type": "permanent",
+      "salary_amount": 360.71,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Bankole Yussuf",
+      "phone": "234809 423 9442",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-4087",
+    "personal_info": {
+      "first_name": "Funmilade",
+      "last_name": "Obiageli",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=FunmiladeObiageli",
+      "dob": "2001-09-20",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0803 172 5254",
+      "email": "funmilade_obiageli@school.edu.ng",
+      "address": {
+        "street": "780 Sanusi Glen",
+        "city": "Ipota",
+        "state": "Ogun"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Vocational",
+      "hire_date": "2017-02-19",
+      "contract_type": "permanent",
+      "salary_amount": 673.46,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Remilekun Obiageli",
+      "phone": "+234 802 038 1991",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-6013",
+    "personal_info": {
+      "first_name": "Efe",
+      "last_name": "Mustapha",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=EfeMustapha",
+      "dob": "1998-09-07",
       "gender": "female",
       "blood_group": "A+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "234809 005 2182",
-      "email": "buchi_oladeji@school.edu.ng",
+      "phone": "+234 802 703 3669",
+      "email": "efe_mustapha@school.edu.ng",
       "address": {
-        "street": "551 Ireti Drives",
-        "city": "Agura",
-        "state": "Ondo"
+        "street": "753 Adewunmi Ville",
+        "city": "Ganyingbo",
+        "state": "Osun"
       }
     },
     "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Commercial",
-      "hire_date": "2023-07-19",
+      "job_title": "Math Teacher",
+      "department": "Arts",
+      "hire_date": "2024-02-09",
       "contract_type": "part-time",
-      "salary_amount": 327.42,
+      "salary_amount": 863.61,
       "currency": "NGN",
       "status": "on-leave"
     },
     "emergency_contact": {
-      "full_name": "Jolayemi Oladeji",
-      "phone": "+234 802 528 7440",
+      "full_name": "Adeboye Mustapha",
+      "phone": "0805770 8446",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-7795",
+    "personal_info": {
+      "first_name": "Sname",
+      "last_name": "Olufeyikemi-Ayomide",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=SnameOlufeyikemi-Ayomide",
+      "dob": "1997-02-25",
+      "gender": "female",
+      "blood_group": "O+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 515 4947",
+      "email": "sname.olufeyikemi-ayomide@school.edu.ng",
+      "address": {
+        "street": "467 Omowale Ferry",
+        "city": "Isaku",
+        "state": "Imo"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Vocational",
+      "hire_date": "2018-08-17",
+      "contract_type": "part-time",
+      "salary_amount": 243.79,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Abimbola Olufeyikemi-Ayomide",
+      "phone": "0803 714 6787",
       "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-5950",
+    "staff_id": "S-2692",
     "personal_info": {
-      "first_name": "Funmilade",
-      "last_name": "Ajakaiye",
-      "dob": "1989-02-21",
+      "first_name": "Kayode",
+      "last_name": "Oluwaseun",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=KayodeOluwaseun",
+      "dob": "1994-01-31",
+      "gender": "male",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 209 5376",
+      "email": "kayode_oluwaseun@school.edu.ng",
+      "address": {
+        "street": "8131 Simisola Keys",
+        "city": "Idata",
+        "state": "Niger"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Commercial",
+      "hire_date": "2024-09-29",
+      "contract_type": "probation",
+      "salary_amount": 102.35,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Banji Oluwaseun",
+      "phone": "+234 802 031 5239",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-8211",
+    "personal_info": {
+      "first_name": "Ifeanyichukwu",
+      "last_name": "Maryjane",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IfeanyichukwuMaryjane",
+      "dob": "2001-02-26",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 789 6562",
+      "email": "ifeanyichukwu.maryjane@school.edu.ng",
+      "address": {
+        "street": "119 Oluwunmi Villages",
+        "city": "Bandu",
+        "state": "Ebonyi"
+      }
+    },
+    "employment": {
+      "job_title": "Central Brand Producer",
+      "department": "Admin",
+      "hire_date": "2019-04-23",
+      "contract_type": "permanent",
+      "salary_amount": 44.71,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Ikenna Maryjane",
+      "phone": "+234 802 896 7721",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-9841",
+    "personal_info": {
+      "first_name": "Shade",
+      "last_name": "Aremu",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ShadeAremu",
+      "dob": "1979-12-26",
       "gender": "female",
       "blood_group": "B+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "0803 625 1730",
-      "email": "funmilade.ajakaiye@school.edu.ng",
+      "phone": "0805432 8596",
+      "email": "shade.aremu@school.edu.ng",
       "address": {
-        "street": "576 Bukola Overpass",
-        "city": "Arigo",
-        "state": "Yobe"
+        "street": "4645 Damilola Landing",
+        "city": "Kajola Iboro",
+        "state": "Sokoto"
       }
     },
     "employment": {
       "job_title": "Biology Teacher",
-      "department": "Arts",
-      "hire_date": "2021-03-15",
-      "contract_type": "probation",
-      "salary_amount": 454.85,
+      "department": "Vocational",
+      "hire_date": "2024-03-06",
+      "contract_type": "part-time",
+      "salary_amount": 865.36,
       "currency": "NGN",
       "status": "on-leave"
     },
     "emergency_contact": {
-      "full_name": "Mohammed Ajakaiye",
-      "phone": "+234 802 100 9718",
+      "full_name": "Zainab Aremu",
+      "phone": "0703 038 8449",
       "relationship": "Parent"
     }
   },
   {
-    "staff_id": "S-8949",
+    "staff_id": "S-5299",
     "personal_info": {
-      "first_name": "Onoriode",
-      "last_name": "Olasunkanmi-fasayo",
-      "dob": "1974-07-18",
+      "first_name": "Lola",
+      "last_name": "Mobolaji",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=LolaMobolaji",
+      "dob": "1988-09-04",
+      "gender": "male",
+      "blood_group": "B+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 169 1674",
+      "email": "lola_mobolaji93@school.edu.ng",
+      "address": {
+        "street": "65892 Sekinat Heights",
+        "city": "Bamgboshe",
+        "state": "ADAMAWA"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Commercial",
+      "hire_date": "2017-03-14",
+      "contract_type": "part-time",
+      "salary_amount": 671.4,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Omolara Mobolaji",
+      "phone": "+234 802 278 3996",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-8753",
+    "personal_info": {
+      "first_name": "Chukwu",
+      "last_name": "Mutiat",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChukwuMutiat",
+      "dob": "2002-02-03",
+      "gender": "female",
+      "blood_group": "B+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "234809 553 5069",
+      "email": "chukwu_mutiat41@school.edu.ng",
+      "address": {
+        "street": "95069 Tari Station",
+        "city": "Gbokuta",
+        "state": "ADAMAWA"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Sciences",
+      "hire_date": "2019-11-17",
+      "contract_type": "permanent",
+      "salary_amount": 748.12,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Sumayyah Mutiat",
+      "phone": "+234 802 467 8297",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-7568",
+    "personal_info": {
+      "first_name": "Ireti",
+      "last_name": "Lawal",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IretiLawal",
+      "dob": "1996-04-28",
       "gender": "male",
       "blood_group": "A+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "+234 802 159 0212",
-      "email": "onoriode.olasunkanmi-fasayo69@school.edu.ng",
+      "phone": "234809 824 7602",
+      "email": "ireti_lawal97@school.edu.ng",
       "address": {
-        "street": "317 Gbemisola Route",
-        "city": "Iragbo",
-        "state": "Nasarawa"
+        "street": "984 Olubunmi Island",
+        "city": "Ekoro",
+        "state": "Kano"
       }
     },
     "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Commercial",
-      "hire_date": "2018-03-20",
-      "contract_type": "probation",
-      "salary_amount": 934.86,
+      "job_title": "Math Teacher",
+      "department": "Sciences",
+      "hire_date": "2016-07-02",
+      "contract_type": "part-time",
+      "salary_amount": 970.21,
       "currency": "NGN",
-      "status": "inactive"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Ayebatari Olasunkanmi-fasayo",
-      "phone": "234809 688 7727",
-      "relationship": "Spouse"
+      "full_name": "Omawunmi Lawal",
+      "phone": "234809 332 6181",
+      "relationship": "Sibling"
     }
   },
   {
-    "staff_id": "S-2390",
+    "staff_id": "S-5670",
     "personal_info": {
-      "first_name": "Obioma",
-      "last_name": "Elebiyo",
-      "dob": "1996-12-21",
+      "first_name": "Omolara",
+      "last_name": "Ayomide",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=OmolaraAyomide",
+      "dob": "1998-04-22",
+      "gender": "female",
+      "blood_group": "O+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0703 831 8107",
+      "email": "omolara_ayomide26@school.edu.ng",
+      "address": {
+        "street": "48233 Zainab Corner",
+        "city": "Egbe",
+        "state": "Kaduna"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Vocational",
+      "hire_date": "2018-04-24",
+      "contract_type": "part-time",
+      "salary_amount": 271.1,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Habiba Ayomide",
+      "phone": "0703 293 7480",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-6388",
+    "personal_info": {
+      "first_name": "Adeboye",
+      "last_name": "Olasunkanmi-fasayo",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AdeboyeOlasunkanmi-fasayo",
+      "dob": "1995-01-18",
       "gender": "male",
       "blood_group": "AB+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "+234 802 751 0022",
-      "email": "obioma_elebiyo@school.edu.ng",
+      "phone": "0805829 2590",
+      "email": "adeboye_olasunkanmi-fasayo39@school.edu.ng",
       "address": {
-        "street": "9441 Gbemisola Crossing",
-        "city": "Ayobo",
-        "state": "Kogi"
+        "street": "883 Makuachukwu Island",
+        "city": "Apapa",
+        "state": "Edo"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Arts",
+      "hire_date": "2025-09-22",
+      "contract_type": "probation",
+      "salary_amount": 666.97,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Ayinde Olasunkanmi-fasayo",
+      "phone": "0703 130 5061",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-3944",
+    "personal_info": {
+      "first_name": "Sekinat",
+      "last_name": "Chibuike",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=SekinatChibuike",
+      "dob": "1979-05-12",
+      "gender": "male",
+      "blood_group": "AB+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0803 160 5104",
+      "email": "sekinat.chibuike82@school.edu.ng",
+      "address": {
+        "street": "377 Mohammed Junctions",
+        "city": "Ikotun",
+        "state": "FCT"
       }
     },
     "employment": {
       "job_title": "Physics Teacher",
-      "department": "Arts",
-      "hire_date": "2020-11-09",
-      "contract_type": "permanent",
-      "salary_amount": 981.59,
+      "department": "Vocational",
+      "hire_date": "2020-05-13",
+      "contract_type": "probation",
+      "salary_amount": 734.58,
       "currency": "NGN",
-      "status": "inactive"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Bukola Elebiyo",
-      "phone": "0803 512 3522",
+      "full_name": "Azubuike Chibuike",
+      "phone": "0703 429 2823",
       "relationship": "Parent"
     }
   },
   {
-    "staff_id": "S-3616",
+    "staff_id": "S-2369",
     "personal_info": {
-      "first_name": "Esse",
-      "last_name": "Leonard",
-      "dob": "1999-12-12",
+      "first_name": "Aminu",
+      "last_name": "Ayisat",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AminuAyisat",
+      "dob": "1972-11-16",
+      "gender": "male",
+      "blood_group": "AB+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0803 129 3968",
+      "email": "aminu.ayisat@school.edu.ng",
+      "address": {
+        "street": "716 Isaac Ferry",
+        "city": "Igbo",
+        "state": "Niger"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Sciences",
+      "hire_date": "2022-10-19",
+      "contract_type": "probation",
+      "salary_amount": 121.95,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Damilare Ayisat",
+      "phone": "+234 802 031 2683",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-5040",
+    "personal_info": {
+      "first_name": "Uzodimma",
+      "last_name": "Busari",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=UzodimmaBusari",
+      "dob": "1974-01-06",
+      "gender": "male",
+      "blood_group": "B+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0803 480 6393",
+      "email": "uzodimma.busari53@school.edu.ng",
+      "address": {
+        "street": "12506 Rasheedah Mount",
+        "city": "Ikosi",
+        "state": "Osun"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Commercial",
+      "hire_date": "2024-07-06",
+      "contract_type": "permanent",
+      "salary_amount": 814.1,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Toluwani Busari",
+      "phone": "0703 984 1553",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-8510",
+    "personal_info": {
+      "first_name": "Aminat",
+      "last_name": "Adewura",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AminatAdewura",
+      "dob": "1986-02-19",
+      "gender": "female",
+      "blood_group": "B+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 683 4732",
+      "email": "aminat_adewura47@school.edu.ng",
+      "address": {
+        "street": "1526 Adeboye Bypass",
+        "city": "Agerige",
+        "state": "Niger"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Sciences",
+      "hire_date": "2023-04-24",
+      "contract_type": "part-time",
+      "salary_amount": 268.18,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Alade Adewura",
+      "phone": "+234 802 994 5411",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-5648",
+    "personal_info": {
+      "first_name": "Makinwa",
+      "last_name": "Latifat",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=MakinwaLatifat",
+      "dob": "1996-03-05",
+      "gender": "male",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0803 471 4108",
+      "email": "makinwa_latifat@school.edu.ng",
+      "address": {
+        "street": "24458 Joshua Passage",
+        "city": "Farin Yashe",
+        "state": "Rivers"
+      }
+    },
+    "employment": {
+      "job_title": "Regional Intranet Analyst",
+      "department": "Admin",
+      "hire_date": "2020-03-24",
+      "contract_type": "part-time",
+      "salary_amount": 48.18,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Ifunanya Latifat",
+      "phone": "234809 782 9893",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-3505",
+    "personal_info": {
+      "first_name": "Isioma",
+      "last_name": "Nwogu",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IsiomaNwogu",
+      "dob": "1973-02-02",
+      "gender": "male",
+      "blood_group": "B+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 355 3327",
+      "email": "isioma_nwogu@school.edu.ng",
+      "address": {
+        "street": "3539 Ifeoma Trail",
+        "city": "Ilikiti",
+        "state": "Ogun"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Arts",
+      "hire_date": "2017-08-20",
+      "contract_type": "permanent",
+      "salary_amount": 87.62,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Titilope Nwogu",
+      "phone": "+234 802 634 0692",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-4713",
+    "personal_info": {
+      "first_name": "Nnamdi",
+      "last_name": "Olasunkanmi",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=NnamdiOlasunkanmi",
+      "dob": "1989-01-25",
+      "gender": "male",
+      "blood_group": "AB+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 274 7295",
+      "email": "nnamdi.olasunkanmi@school.edu.ng",
+      "address": {
+        "street": "34031 Emmanuel Walk",
+        "city": "Ajebandele",
+        "state": "Ebonyi"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Vocational",
+      "hire_date": "2020-05-02",
+      "contract_type": "part-time",
+      "salary_amount": 410.51,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Augustina Olasunkanmi",
+      "phone": "+234 802 219 5218",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-9672",
+    "personal_info": {
+      "first_name": "Obioma",
+      "last_name": "Adeniyan",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ObiomaAdeniyan",
+      "dob": "1967-08-02",
+      "gender": "female",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0703 911 0954",
+      "email": "obioma_adeniyan2@school.edu.ng",
+      "address": {
+        "street": "4598 Ndukwu Forest",
+        "city": "Idi Agbon Agana",
+        "state": "Edo"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Sciences",
+      "hire_date": "2020-05-28",
+      "contract_type": "permanent",
+      "salary_amount": 676.88,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Ifeanyichukwu Adeniyan",
+      "phone": "0803 694 7569",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-3183",
+    "personal_info": {
+      "first_name": "Buchi",
+      "last_name": "Onose",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=BuchiOnose",
+      "dob": "1988-11-16",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0803 347 3198",
+      "email": "buchi.onose85@school.edu.ng",
+      "address": {
+        "street": "742 Mutiat Ridge",
+        "city": "Iyasi",
+        "state": "Niger"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Vocational",
+      "hire_date": "2021-02-13",
+      "contract_type": "part-time",
+      "salary_amount": 951.59,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Banji Onose",
+      "phone": "0805040 5755",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-4028",
+    "personal_info": {
+      "first_name": "Ifunanya",
+      "last_name": "Oluwashina",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IfunanyaOluwashina",
+      "dob": "1983-06-30",
+      "gender": "male",
+      "blood_group": "A+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0703 624 5109",
+      "email": "ifunanya.oluwashina28@school.edu.ng",
+      "address": {
+        "street": "471 Iyalla Cove",
+        "city": "Arapagi Oloko",
+        "state": "Niger"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Commercial",
+      "hire_date": "2019-05-10",
+      "contract_type": "part-time",
+      "salary_amount": 367.79,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Ikhidie Oluwashina",
+      "phone": "0805061 8438",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-6897",
+    "personal_info": {
+      "first_name": "Rotimi",
+      "last_name": "Oluwaseyi",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=RotimiOluwaseyi",
+      "dob": "2003-11-03",
+      "gender": "male",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "234809 327 9974",
+      "email": "rotimi.oluwaseyi71@school.edu.ng",
+      "address": {
+        "street": "3100 Olaoluwa Motorway",
+        "city": "Akere",
+        "state": "Plateau"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Arts",
+      "hire_date": "2017-03-12",
+      "contract_type": "probation",
+      "salary_amount": 118.75,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Chukwu Oluwaseyi",
+      "phone": "0703 284 9773",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-9794",
+    "personal_info": {
+      "first_name": "Temitope",
+      "last_name": "Jimoh",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=TemitopeJimoh",
+      "dob": "2004-02-05",
+      "gender": "female",
+      "blood_group": "B+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 854 0181",
+      "email": "temitope_jimoh@school.edu.ng",
+      "address": {
+        "street": "17447 Azubuike Lock",
+        "city": "Idosemo",
+        "state": "Zamfara"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Sciences",
+      "hire_date": "2016-08-14",
+      "contract_type": "part-time",
+      "salary_amount": 613.12,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Ifeanyichukwu Jimoh",
+      "phone": "+234 802 698 7931",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-4472",
+    "personal_info": {
+      "first_name": "Remilekun",
+      "last_name": "Nojeem",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=RemilekunNojeem",
+      "dob": "1997-09-26",
+      "gender": "male",
+      "blood_group": "AB+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "234809 748 9525",
+      "email": "remilekun_nojeem@school.edu.ng",
+      "address": {
+        "street": "2197 Adedayo Street",
+        "city": "Agaw Shasha",
+        "state": "Jigawa"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Commercial",
+      "hire_date": "2018-11-01",
+      "contract_type": "permanent",
+      "salary_amount": 84.8,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Muyiwa Nojeem",
+      "phone": "0805295 8687",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-2210",
+    "personal_info": {
+      "first_name": "Chizoba",
+      "last_name": "Ayisat",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChizobaAyisat",
+      "dob": "1965-11-13",
+      "gender": "male",
+      "blood_group": "AB+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 551 9614",
+      "email": "chizoba_ayisat30@school.edu.ng",
+      "address": {
+        "street": "4201 Isokun Square",
+        "city": "Ibefun",
+        "state": "Taraba"
+      }
+    },
+    "employment": {
+      "job_title": "Investor Research Technician",
+      "department": "Admin",
+      "hire_date": "2025-06-21",
+      "contract_type": "permanent",
+      "salary_amount": 496.42,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Chimamanda Ayisat",
+      "phone": "+234 802 016 0340",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-4176",
+    "personal_info": {
+      "first_name": "Akanni",
+      "last_name": "Agnes",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AkanniAgnes",
+      "dob": "1991-01-05",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 981 3120",
+      "email": "akanni_agnes69@school.edu.ng",
+      "address": {
+        "street": "732 Oluwanisola Alley",
+        "city": "Epeh",
+        "state": "Kaduna"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Arts",
+      "hire_date": "2020-01-19",
+      "contract_type": "probation",
+      "salary_amount": 361.88,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Yakubu Agnes",
+      "phone": "234809 836 2552",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-5606",
+    "personal_info": {
+      "first_name": "Rasheedah",
+      "last_name": "Okunola",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=RasheedahOkunola",
+      "dob": "1965-04-23",
+      "gender": "female",
+      "blood_group": "B+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 310 1184",
+      "email": "rasheedah_okunola@school.edu.ng",
+      "address": {
+        "street": "434 Akanni Shoal",
+        "city": "Inogbe",
+        "state": "Yobe"
+      }
+    },
+    "employment": {
+      "job_title": "Internal Functionality Technician",
+      "department": "Admin",
+      "hire_date": "2025-09-13",
+      "contract_type": "permanent",
+      "salary_amount": 41.22,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Ebiere Okunola",
+      "phone": "+234 802 423 0281",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-6696",
+    "personal_info": {
+      "first_name": "Cherechi",
+      "last_name": "Olumide",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=CherechiOlumide",
+      "dob": "2000-01-10",
       "gender": "female",
       "blood_group": "O-",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "0703 276 9912",
-      "email": "esse.leonard2@school.edu.ng",
+      "phone": "+234 802 508 0831",
+      "email": "cherechi_olumide@school.edu.ng",
       "address": {
-        "street": "632 Abisola Neck",
-        "city": "Fedare",
+        "street": "27814 Akanni Shoals",
+        "city": "Gamajigo",
         "state": "Osun"
       }
     },
     "employment": {
       "job_title": "Math Teacher",
       "department": "Vocational",
-      "hire_date": "2023-04-10",
-      "contract_type": "permanent",
-      "salary_amount": 815.47,
+      "hire_date": "2016-04-29",
+      "contract_type": "part-time",
+      "salary_amount": 417.36,
       "currency": "NGN",
-      "status": "on-leave"
+      "status": "inactive"
     },
     "emergency_contact": {
-      "full_name": "Olaide Leonard",
-      "phone": "+234 802 613 0045",
-      "relationship": "Parent"
+      "full_name": "Shade Olumide",
+      "phone": "+234 802 672 9279",
+      "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-6538",
+    "staff_id": "S-8391",
     "personal_info": {
-      "first_name": "Aminat",
-      "last_name": "Olaoluwa",
-      "dob": "1970-01-22",
-      "gender": "female",
-      "blood_group": "B+",
+      "first_name": "Akande",
+      "last_name": "Sulaimon",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AkandeSulaimon",
+      "dob": "1969-02-02",
+      "gender": "male",
+      "blood_group": "AB+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0803 243 4329",
-      "email": "aminat_olaoluwa90@school.edu.ng",
+      "phone": "+234 802 472 1381",
+      "email": "akande.sulaimon@school.edu.ng",
       "address": {
-        "street": "5546 Sarah Forest",
-        "city": "Ikorodu",
-        "state": "Jigawa"
+        "street": "60261 Chidozie Turnpike",
+        "city": "Iworo",
+        "state": "Kaduna"
       }
     },
     "employment": {
       "job_title": "Math Teacher",
       "department": "Commercial",
-      "hire_date": "2019-04-16",
-      "contract_type": "part-time",
-      "salary_amount": 767.25,
+      "hire_date": "2017-12-24",
+      "contract_type": "permanent",
+      "salary_amount": 593.83,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Jolayemi Olaoluwa",
-      "phone": "234809 974 4942",
+      "full_name": "Isioma Sulaimon",
+      "phone": "0703 723 9595",
       "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-6411",
+    "staff_id": "S-9620",
     "personal_info": {
-      "first_name": "Obioma",
-      "last_name": "Nwachukwu",
-      "dob": "1998-05-28",
+      "first_name": "Akunna",
+      "last_name": "Justina",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AkunnaJustina",
+      "dob": "2002-11-10",
       "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Islam"
+      "blood_group": "A+",
+      "religion": "Christianity"
     },
     "contact": {
-      "phone": "0805892 1093",
-      "email": "obioma.nwachukwu@school.edu.ng",
+      "phone": "0805776 9814",
+      "email": "akunna.justina@school.edu.ng",
       "address": {
-        "street": "678 Chibike Harbors",
-        "city": "Ijako",
-        "state": "Akwa Ibom"
+        "street": "416 Sarah Centers",
+        "city": "Adeleye",
+        "state": "Gombe"
       }
     },
     "employment": {
-      "job_title": "History Teacher",
-      "department": "Arts",
-      "hire_date": "2024-02-24",
-      "contract_type": "probation",
-      "salary_amount": 692.5,
+      "job_title": "Biology Teacher",
+      "department": "Commercial",
+      "hire_date": "2025-02-01",
+      "contract_type": "permanent",
+      "salary_amount": 926.02,
       "currency": "NGN",
       "status": "on-leave"
     },
     "emergency_contact": {
-      "full_name": "Sumayyah Nwachukwu",
-      "phone": "0703 380 9457",
-      "relationship": "Parent"
+      "full_name": "Cherechi Justina",
+      "phone": "0703 956 3551",
+      "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-3980",
+    "staff_id": "S-4295",
     "personal_info": {
-      "first_name": "Omawunmi",
-      "last_name": "Obianuju",
-      "dob": "1997-07-27",
-      "gender": "female",
+      "first_name": "Esse",
+      "last_name": "Samuel",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=EsseSamuel",
+      "dob": "1987-11-18",
+      "gender": "male",
       "blood_group": "A+",
-      "religion": "Islam"
+      "religion": "Christianity"
     },
     "contact": {
-      "phone": "+234 802 619 4511",
-      "email": "omawunmi.obianuju@school.edu.ng",
+      "phone": "0805533 0012",
+      "email": "esse.samuel@school.edu.ng",
       "address": {
-        "street": "282 Esse Court",
-        "city": "Ise",
-        "state": "Bornu"
+        "street": "8525 Ndukwu Isle",
+        "city": "Ganme",
+        "state": "Bayelsa"
       }
     },
     "employment": {
-      "job_title": "Principal Program Designer",
-      "department": "Admin",
-      "hire_date": "2020-06-01",
+      "job_title": "Physics Teacher",
+      "department": "Arts",
+      "hire_date": "2019-09-29",
       "contract_type": "part-time",
-      "salary_amount": 769.18,
+      "salary_amount": 239.79,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Rasheedah Obianuju",
-      "phone": "0703 866 0976",
-      "relationship": "Parent"
+      "full_name": "Akande Samuel",
+      "phone": "0803 219 5404",
+      "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-6118",
+    "staff_id": "S-5411",
     "personal_info": {
-      "first_name": "Olufunmi",
-      "last_name": "Osuagwu",
-      "dob": "1973-02-07",
+      "first_name": "Danjuma",
+      "last_name": "Bello",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=DanjumaBello",
+      "dob": "1988-06-12",
+      "gender": "female",
+      "blood_group": "O+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0803 406 7730",
+      "email": "danjuma_bello@school.edu.ng",
+      "address": {
+        "street": "91075 Emeka Extension",
+        "city": "Idi-Off",
+        "state": "Cross River"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Arts",
+      "hire_date": "2022-09-04",
+      "contract_type": "permanent",
+      "salary_amount": 183.78,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Titilope Bello",
+      "phone": "0703 247 6220",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-9780",
+    "personal_info": {
+      "first_name": "Bukola",
+      "last_name": "Emmanuel",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=BukolaEmmanuel",
+      "dob": "1973-03-16",
       "gender": "male",
-      "blood_group": "AB+",
+      "blood_group": "O+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "+234 802 372 2036",
-      "email": "olufunmi.osuagwu@school.edu.ng",
+      "phone": "0803 403 2422",
+      "email": "bukola.emmanuel@school.edu.ng",
       "address": {
-        "street": "735 Oluwaseun Corners",
-        "city": "Abaranjeh",
-        "state": "Delta"
+        "street": "6801 Buchi Loaf",
+        "city": "Iyesi",
+        "state": "Plateau"
       }
     },
     "employment": {
       "job_title": "Biology Teacher",
       "department": "Arts",
-      "hire_date": "2017-11-08",
-      "contract_type": "probation",
-      "salary_amount": 6.2,
+      "hire_date": "2016-11-28",
+      "contract_type": "part-time",
+      "salary_amount": 216.97,
       "currency": "NGN",
       "status": "inactive"
     },
     "emergency_contact": {
-      "full_name": "Abimbola Osuagwu",
-      "phone": "0803 665 2052",
-      "relationship": "Parent"
+      "full_name": "Abisola Emmanuel",
+      "phone": "234809 557 2551",
+      "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-5542",
+    "staff_id": "S-9348",
     "personal_info": {
-      "first_name": "Uzodimma",
-      "last_name": "Isokun",
-      "dob": "1977-04-27",
-      "gender": "male",
+      "first_name": "Adaugo",
+      "last_name": "Oyebola",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AdaugoOyebola",
+      "dob": "1990-07-10",
+      "gender": "female",
       "blood_group": "O-",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0803 209 2068",
-      "email": "uzodimma.isokun@school.edu.ng",
+      "phone": "234809 267 4683",
+      "email": "adaugo_oyebola91@school.edu.ng",
       "address": {
-        "street": "936 Ogunbanwo Lakes",
-        "city": "Elachi",
-        "state": "Ekiti"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Vocational",
-      "hire_date": "2023-02-13",
-      "contract_type": "permanent",
-      "salary_amount": 377.55,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Ifeoma Isokun",
-      "phone": "0805982 0748",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-7490",
-    "personal_info": {
-      "first_name": "Tomiloba",
-      "last_name": "Christian",
-      "dob": "1974-03-17",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0703 984 0853",
-      "email": "tomiloba.christian@school.edu.ng",
-      "address": {
-        "street": "73290 Mohammed Throughway",
-        "city": "Agala",
-        "state": "Cross River"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Sciences",
-      "hire_date": "2019-10-28",
-      "contract_type": "part-time",
-      "salary_amount": 625.25,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Kubra Christian",
-      "phone": "0805736 4903",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-4349",
-    "personal_info": {
-      "first_name": "Jolayemi",
-      "last_name": "Mogbadunade",
-      "dob": "1984-07-07",
-      "gender": "male",
-      "blood_group": "O+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "+234 802 120 6647",
-      "email": "jolayemi.mogbadunade8@school.edu.ng",
-      "address": {
-        "street": "160 Yaqub Radial",
-        "city": "Idosa",
-        "state": "Kano"
+        "street": "3265 Mayowa Pike",
+        "city": "Baruwa",
+        "state": "Osun"
       }
     },
     "employment": {
       "job_title": "Math Teacher",
-      "department": "Arts",
-      "hire_date": "2018-01-08",
+      "department": "Commercial",
+      "hire_date": "2019-04-28",
       "contract_type": "probation",
-      "salary_amount": 702.79,
+      "salary_amount": 440.5,
       "currency": "NGN",
-      "status": "on-leave"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Cherechi Mogbadunade",
-      "phone": "+234 802 896 9607",
+      "full_name": "Fatima Oyebola",
+      "phone": "0803 643 8936",
       "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-1508",
+    "staff_id": "S-7329",
     "personal_info": {
-      "first_name": "Ifunanya",
-      "last_name": "Gbogboade",
-      "dob": "1997-10-16",
-      "gender": "female",
-      "blood_group": "B+",
+      "first_name": "Tope",
+      "last_name": "Oladimeji",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=TopeOladimeji",
+      "dob": "2002-12-27",
+      "gender": "male",
+      "blood_group": "A+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "234809 771 9098",
-      "email": "ifunanya.gbogboade97@school.edu.ng",
+      "phone": "234809 933 9854",
+      "email": "tope_oladimeji@school.edu.ng",
       "address": {
-        "street": "2349 Adegboye-Adewale Stream",
-        "city": "Alagbon",
+        "street": "56388 Jimoh Cliff",
+        "city": "Ipanmi",
+        "state": "ADAMAWA"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Arts",
+      "hire_date": "2017-06-22",
+      "contract_type": "part-time",
+      "salary_amount": 191.24,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Toke Oladimeji",
+      "phone": "0703 008 7953",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-6226",
+    "personal_info": {
+      "first_name": "Damilare",
+      "last_name": "Agboola",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=DamilareAgboola",
+      "dob": "1999-01-02",
+      "gender": "female",
+      "blood_group": "O+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0803 974 7274",
+      "email": "damilare.agboola44@school.edu.ng",
+      "address": {
+        "street": "81724 Osuagwu Vista",
+        "city": "Arapagi-Awlawkaw",
         "state": "Plateau"
       }
     },
     "employment": {
       "job_title": "Biology Teacher",
       "department": "Sciences",
-      "hire_date": "2021-11-13",
-      "contract_type": "part-time",
-      "salary_amount": 537.66,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Adeboye Gbogboade",
-      "phone": "0803 672 7705",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-5405",
-    "personal_info": {
-      "first_name": "Remilekun",
-      "last_name": "Clare",
-      "dob": "1990-01-31",
-      "gender": "male",
-      "blood_group": "O+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "234809 128 9663",
-      "email": "remilekun.clare63@school.edu.ng",
-      "address": {
-        "street": "577 Funmilade Oval",
-        "city": "Idolorisha",
-        "state": "ABIA"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Commercial",
-      "hire_date": "2019-04-06",
+      "hire_date": "2022-12-25",
       "contract_type": "permanent",
-      "salary_amount": 85.29,
+      "salary_amount": 753.19,
       "currency": "NGN",
-      "status": "on-leave"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Fatima Clare",
-      "phone": "+234 802 052 5836",
-      "relationship": "Sibling"
+      "full_name": "Lolade Agboola",
+      "phone": "234809 309 8035",
+      "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-4336",
+    "staff_id": "S-5259",
     "personal_info": {
-      "first_name": "Titilope",
-      "last_name": "Aminat",
-      "dob": "1984-08-03",
-      "gender": "female",
+      "first_name": "Onoriode",
+      "last_name": "Oluwatosin",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=OnoriodeOluwatosin",
+      "dob": "1981-08-21",
+      "gender": "male",
       "blood_group": "A+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0703 295 6385",
-      "email": "titilope_aminat23@school.edu.ng",
+      "phone": "0805468 0071",
+      "email": "onoriode.oluwatosin@school.edu.ng",
       "address": {
-        "street": "3918 Kubra Hills",
-        "city": "Igando",
-        "state": "Kwara"
-      }
-    },
-    "employment": {
-      "job_title": "Senior Communications Architect",
-      "department": "Admin",
-      "hire_date": "2018-01-25",
-      "contract_type": "permanent",
-      "salary_amount": 507.62,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Damilare Aminat",
-      "phone": "+234 802 444 3261",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-7944",
-    "personal_info": {
-      "first_name": "Azubuike",
-      "last_name": "Olasunkanmi",
-      "dob": "2002-02-16",
-      "gender": "male",
-      "blood_group": "O+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "+234 802 218 5739",
-      "email": "azubuike_olasunkanmi@school.edu.ng",
-      "address": {
-        "street": "9906 Ekwueme Junctions",
-        "city": "Abekkun",
+        "street": "97963 Olufunmi Green",
+        "city": "Afanji",
         "state": "Benue"
       }
     },
     "employment": {
       "job_title": "Biology Teacher",
-      "department": "Vocational",
-      "hire_date": "2021-10-11",
-      "contract_type": "part-time",
-      "salary_amount": 27.22,
+      "department": "Sciences",
+      "hire_date": "2022-03-26",
+      "contract_type": "permanent",
+      "salary_amount": 86.23,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Kubura Olasunkanmi",
-      "phone": "+234 802 689 3928",
-      "relationship": "Parent"
+      "full_name": "Banji Oluwatosin",
+      "phone": "+234 802 237 0832",
+      "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-4516",
+    "staff_id": "S-9567",
     "personal_info": {
-      "first_name": "Kubura",
-      "last_name": "Ademayowa-Leonard",
-      "dob": "1998-08-11",
+      "first_name": "Aminu",
+      "last_name": "Adeyemo-Elebiyo",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AminuAdeyemo-Elebiyo",
+      "dob": "1985-07-03",
       "gender": "male",
       "blood_group": "A+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "+234 802 201 8119",
-      "email": "kubura_ademayowa-leonard51@school.edu.ng",
+      "phone": "+234 802 665 1090",
+      "email": "aminu.adeyemo-elebiyo42@school.edu.ng",
       "address": {
-        "street": "4049 Aderinsola Lake",
-        "city": "Isekun",
-        "state": "Kano"
+        "street": "2886 Makinwa Row",
+        "city": "Iragon",
+        "state": "Enugu"
       }
     },
     "employment": {
       "job_title": "History Teacher",
       "department": "Sciences",
-      "hire_date": "2018-08-21",
-      "contract_type": "permanent",
-      "salary_amount": 219.57,
+      "hire_date": "2024-03-28",
+      "contract_type": "part-time",
+      "salary_amount": 345.37,
       "currency": "NGN",
       "status": "on-leave"
     },
     "emergency_contact": {
-      "full_name": "Onoriode Ademayowa-Leonard",
-      "phone": "0703 848 4884",
+      "full_name": "Emeka Adeyemo-Elebiyo",
+      "phone": "0803 014 9356",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-6456",
+    "personal_info": {
+      "first_name": "Zainab",
+      "last_name": "Nojeem",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ZainabNojeem",
+      "dob": "2002-01-23",
+      "gender": "male",
+      "blood_group": "O-",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0703 976 8236",
+      "email": "zainab_nojeem74@school.edu.ng",
+      "address": {
+        "street": "10802 Tope Crossing",
+        "city": "Egun",
+        "state": "Zamfara"
+      }
+    },
+    "employment": {
+      "job_title": "Dynamic Directives Producer",
+      "department": "Admin",
+      "hire_date": "2021-06-22",
+      "contract_type": "part-time",
+      "salary_amount": 137.87,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Tobiloba Nojeem",
+      "phone": "0703 936 3376",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-1844",
+    "personal_info": {
+      "first_name": "Kubra",
+      "last_name": "Temitope-Abosede",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=KubraTemitope-Abosede",
+      "dob": "1971-01-04",
+      "gender": "male",
+      "blood_group": "B+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0703 682 2070",
+      "email": "kubra_temitope-abosede91@school.edu.ng",
+      "address": {
+        "street": "3391 Segunmaru Groves",
+        "city": "Imota",
+        "state": "Kebbi"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Commercial",
+      "hire_date": "2021-09-08",
+      "contract_type": "permanent",
+      "salary_amount": 750.11,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Akunna Temitope-Abosede",
+      "phone": "0703 550 8587",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-4397",
+    "personal_info": {
+      "first_name": "Kubra",
+      "last_name": "Omolara",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=KubraOmolara",
+      "dob": "1998-11-29",
+      "gender": "male",
+      "blood_group": "O-",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 270 5668",
+      "email": "kubra_omolara35@school.edu.ng",
+      "address": {
+        "street": "310 Adegboye Crescent",
+        "city": "Ado",
+        "state": "Kwara"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Commercial",
+      "hire_date": "2016-02-17",
+      "contract_type": "part-time",
+      "salary_amount": 893.81,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Abisoye Omolara",
+      "phone": "0805493 1912",
       "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-3508",
+    "staff_id": "S-5921",
     "personal_info": {
-      "first_name": "Sumayyah",
-      "last_name": "Adeniyan",
-      "dob": "1965-09-22",
+      "first_name": "Abimbola",
+      "last_name": "Afolabi",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AbimbolaAfolabi",
+      "dob": "1989-07-01",
       "gender": "female",
-      "blood_group": "AB+",
+      "blood_group": "O+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0803 553 3308",
+      "email": "abimbola.afolabi64@school.edu.ng",
+      "address": {
+        "street": "5536 Fatima Throughway",
+        "city": "Akowonjo",
+        "state": "Enugu"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Commercial",
+      "hire_date": "2020-07-24",
+      "contract_type": "part-time",
+      "salary_amount": 593.4,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Ikhidie Afolabi",
+      "phone": "0805713 5688",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-9163",
+    "personal_info": {
+      "first_name": "Efe",
+      "last_name": "Onose",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=EfeOnose",
+      "dob": "1987-05-25",
+      "gender": "male",
+      "blood_group": "B+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "234809 917 3808",
-      "email": "sumayyah.adeniyan@school.edu.ng",
+      "phone": "0803 510 7113",
+      "email": "efe_onose34@school.edu.ng",
       "address": {
-        "street": "219 Funmilade Meadows",
-        "city": "Awgawmbaw",
+        "street": "4670 Danjuma Dale",
+        "city": "Ajido",
+        "state": "Delta"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Vocational",
+      "hire_date": "2025-11-27",
+      "contract_type": "part-time",
+      "salary_amount": 612.65,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Akunna Onose",
+      "phone": "234809 180 0087",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-9066",
+    "personal_info": {
+      "first_name": "Augustina",
+      "last_name": "Okonkwo",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AugustinaOkonkwo",
+      "dob": "1985-08-19",
+      "gender": "male",
+      "blood_group": "AB+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0703 081 2983",
+      "email": "augustina.okonkwo57@school.edu.ng",
+      "address": {
+        "street": "99369 Isioma Manor",
+        "city": "Apapa Eleko",
+        "state": "Katsina"
+      }
+    },
+    "employment": {
+      "job_title": "Forward Interactions Officer",
+      "department": "Admin",
+      "hire_date": "2024-03-17",
+      "contract_type": "part-time",
+      "salary_amount": 402.35,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Sname Okonkwo",
+      "phone": "0803 082 7454",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-3183",
+    "personal_info": {
+      "first_name": "Remilekun",
+      "last_name": "Funmilayo",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=RemilekunFunmilayo",
+      "dob": "1999-11-04",
+      "gender": "male",
+      "blood_group": "A+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0805918 5983",
+      "email": "remilekun.funmilayo86@school.edu.ng",
+      "address": {
+        "street": "46953 Onose Rapid",
+        "city": "Ajelanwa",
+        "state": "Nasarawa"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Commercial",
+      "hire_date": "2025-08-25",
+      "contract_type": "permanent",
+      "salary_amount": 790.08,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Abisola Funmilayo",
+      "phone": "+234 802 467 9852",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-5126",
+    "personal_info": {
+      "first_name": "Bukola",
+      "last_name": "Maryam",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=BukolaMaryam",
+      "dob": "1980-08-20",
+      "gender": "male",
+      "blood_group": "A+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0805126 0190",
+      "email": "bukola_maryam@school.edu.ng",
+      "address": {
+        "street": "719 Ayinde Forest",
+        "city": "Gana Daji",
         "state": "Sokoto"
       }
     },
     "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Sciences",
-      "hire_date": "2022-11-30",
-      "contract_type": "part-time",
-      "salary_amount": 634.04,
+      "job_title": "Direct Interactions Orchestrator",
+      "department": "Admin",
+      "hire_date": "2019-08-19",
+      "contract_type": "permanent",
+      "salary_amount": 844.53,
       "currency": "NGN",
-      "status": "active"
+      "status": "on-leave"
     },
     "emergency_contact": {
-      "full_name": "Olufunmi Adeniyan",
-      "phone": "0805464 8166",
+      "full_name": "Chisom Maryam",
+      "phone": "0803 562 1068",
       "relationship": "Parent"
     }
   },
   {
-    "staff_id": "S-1011",
+    "staff_id": "S-8733",
     "personal_info": {
-      "first_name": "Oluwunmi",
-      "last_name": "Emmanuel",
-      "dob": "1979-04-05",
-      "gender": "male",
-      "blood_group": "B+",
+      "first_name": "Isioma",
+      "last_name": "Oluwanisola",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IsiomaOluwanisola",
+      "dob": "1988-12-15",
+      "gender": "female",
+      "blood_group": "O+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "234809 426 3408",
-      "email": "oluwunmi_emmanuel@school.edu.ng",
+      "phone": "0703 598 8826",
+      "email": "isioma_oluwanisola@school.edu.ng",
       "address": {
-        "street": "97477 Ekwueme Meadow",
-        "city": "Agaw Awusa",
-        "state": "Enugu"
+        "street": "28115 Lawal Lake",
+        "city": "Agege",
+        "state": "Oyo"
       }
     },
     "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Commercial",
-      "hire_date": "2019-03-26",
-      "contract_type": "part-time",
-      "salary_amount": 519.16,
+      "job_title": "Math Teacher",
+      "department": "Vocational",
+      "hire_date": "2021-05-10",
+      "contract_type": "permanent",
+      "salary_amount": 541.27,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Azubuike Emmanuel",
-      "phone": "0805125 5295",
-      "relationship": "Sibling"
+      "full_name": "Aminu Oluwanisola",
+      "phone": "0805263 9507",
+      "relationship": "Parent"
     }
   },
   {
-    "staff_id": "S-9242",
+    "staff_id": "S-6364",
     "personal_info": {
-      "first_name": "Gbemisola",
-      "last_name": "Ogunbanwo",
-      "dob": "1972-07-16",
+      "first_name": "Chinedu",
+      "last_name": "Ayobami",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChineduAyobami",
+      "dob": "1993-08-07",
       "gender": "male",
-      "blood_group": "B+",
+      "blood_group": "A+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "234809 404 1368",
-      "email": "gbemisola_ogunbanwo22@school.edu.ng",
+      "phone": "0805416 4866",
+      "email": "chinedu.ayobami49@school.edu.ng",
       "address": {
-        "street": "1413 Adeoluwa Route",
-        "city": "Ahovo",
-        "state": "Gombe"
+        "street": "4767 Fatima Well",
+        "city": "George",
+        "state": "Jigawa"
       }
     },
     "employment": {
-      "job_title": "Physics Teacher",
+      "job_title": "Biology Teacher",
       "department": "Commercial",
-      "hire_date": "2024-04-29",
-      "contract_type": "permanent",
-      "salary_amount": 666.49,
+      "hire_date": "2024-05-05",
+      "contract_type": "probation",
+      "salary_amount": 77.75,
       "currency": "NGN",
-      "status": "inactive"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Musa Ogunbanwo",
-      "phone": "+234 802 709 1495",
+      "full_name": "Habiba Ayobami",
+      "phone": "0803 119 7819",
       "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-5878",
+    "staff_id": "S-6191",
     "personal_info": {
-      "first_name": "Bankole",
-      "last_name": "Onose",
-      "dob": "1992-05-11",
+      "first_name": "Simisola",
+      "last_name": "Akintade",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=SimisolaAkintade",
+      "dob": "1969-04-06",
       "gender": "male",
-      "blood_group": "AB+",
+      "blood_group": "B+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0803 989 1066",
-      "email": "bankole.onose52@school.edu.ng",
+      "phone": "+234 802 352 6041",
+      "email": "simisola_akintade61@school.edu.ng",
       "address": {
-        "street": "61310 Omawunmi Cove",
-        "city": "Ifako",
-        "state": "Taraba"
+        "street": "26096 Musa Village",
+        "city": "Alaguntan",
+        "state": "Cross River"
       }
     },
     "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Arts",
-      "hire_date": "2018-08-21",
-      "contract_type": "probation",
-      "salary_amount": 242.31,
+      "job_title": "Central Factors Director",
+      "department": "Admin",
+      "hire_date": "2020-10-06",
+      "contract_type": "part-time",
+      "salary_amount": 156.22,
       "currency": "NGN",
       "status": "inactive"
     },
     "emergency_contact": {
-      "full_name": "Abisoye Onose",
-      "phone": "+234 802 862 2011",
+      "full_name": "Emeka Akintade",
+      "phone": "234809 420 3784",
       "relationship": "Parent"
     }
   },
   {
-    "staff_id": "S-9933",
+    "staff_id": "S-9812",
     "personal_info": {
-      "first_name": "Ebiowei",
-      "last_name": "Joshua",
-      "dob": "1985-08-08",
+      "first_name": "Uzodimma",
+      "last_name": "Nojeem",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=UzodimmaNojeem",
+      "dob": "1997-03-17",
       "gender": "male",
       "blood_group": "O-",
-      "religion": "Christianity"
+      "religion": "Islam"
     },
     "contact": {
-      "phone": "234809 954 9172",
-      "email": "ebiowei_joshua73@school.edu.ng",
+      "phone": "0703 108 4252",
+      "email": "uzodimma.nojeem@school.edu.ng",
       "address": {
-        "street": "403 Elebiyo Light",
-        "city": "Agboyi",
-        "state": "FCT"
+        "street": "6260 Adaugo Center",
+        "city": "Ijaiye",
+        "state": "Gombe"
       }
     },
     "employment": {
-      "job_title": "History Teacher",
+      "job_title": "Math Teacher",
       "department": "Arts",
-      "hire_date": "2024-11-02",
-      "contract_type": "part-time",
-      "salary_amount": 296.5,
+      "hire_date": "2024-06-30",
+      "contract_type": "permanent",
+      "salary_amount": 950.28,
       "currency": "NGN",
-      "status": "inactive"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Adeboye Joshua",
-      "phone": "0803 107 9616",
-      "relationship": "Parent"
+      "full_name": "Obioma Nojeem",
+      "phone": "0803 912 1402",
+      "relationship": "Sibling"
     }
   },
   {
-    "staff_id": "S-7869",
+    "staff_id": "S-7939",
     "personal_info": {
-      "first_name": "Obioma",
-      "last_name": "Ladega",
-      "dob": "1998-04-21",
+      "first_name": "Wale",
+      "last_name": "Ismail",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=WaleIsmail",
+      "dob": "1992-04-21",
       "gender": "female",
       "blood_group": "A+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "+234 802 898 1291",
-      "email": "obioma.ladega45@school.edu.ng",
+      "phone": "0805609 3945",
+      "email": "wale.ismail34@school.edu.ng",
       "address": {
-        "street": "33884 Joshua Mountains",
-        "city": "Janikin",
-        "state": "Enugu"
+        "street": "4920 Funmilade Ford",
+        "city": "Ajagambari",
+        "state": "Lagos"
       }
     },
     "employment": {
       "job_title": "History Teacher",
       "department": "Sciences",
-      "hire_date": "2022-12-16",
-      "contract_type": "permanent",
-      "salary_amount": 736.82,
+      "hire_date": "2025-05-22",
+      "contract_type": "part-time",
+      "salary_amount": 610.39,
       "currency": "NGN",
-      "status": "on-leave"
+      "status": "inactive"
     },
     "emergency_contact": {
-      "full_name": "Simisola Ladega",
-      "phone": "0703 345 9892",
+      "full_name": "Chisom Ismail",
+      "phone": "234809 124 7235",
       "relationship": "Sibling"
     }
   },
   {
-    "staff_id": "S-3117",
+    "staff_id": "S-6580",
     "personal_info": {
-      "first_name": "Ifeoma",
-      "last_name": "Okonkwo",
-      "dob": "1976-07-01",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Islam"
+      "first_name": "Makinwa",
+      "last_name": "Omobolaji-Makuachukwu",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=MakinwaOmobolaji-Makuachukwu",
+      "dob": "1989-11-11",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Christianity"
     },
     "contact": {
-      "phone": "0805816 5432",
-      "email": "ifeoma.okonkwo57@school.edu.ng",
+      "phone": "+234 802 553 2678",
+      "email": "makinwa.omobolaji-makuachukwu9@school.edu.ng",
       "address": {
-        "street": "63091 Motalo Bypass",
-        "city": "Isagatedo",
-        "state": "Enugu"
+        "street": "74971 Iyalla Gardens",
+        "city": "Awado",
+        "state": "Benue"
       }
     },
     "employment": {
-      "job_title": "Customer Implementation Agent",
-      "department": "Admin",
-      "hire_date": "2021-07-12",
-      "contract_type": "part-time",
-      "salary_amount": 333.17,
+      "job_title": "Physics Teacher",
+      "department": "Commercial",
+      "hire_date": "2023-07-14",
+      "contract_type": "permanent",
+      "salary_amount": 258.45,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Esse Omobolaji-Makuachukwu",
+      "phone": "0805774 3072",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-4301",
+    "personal_info": {
+      "first_name": "Kayode",
+      "last_name": "Obiageli",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=KayodeObiageli",
+      "dob": "1990-05-23",
+      "gender": "male",
+      "blood_group": "A+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0803 986 6099",
+      "email": "kayode_obiageli@school.edu.ng",
+      "address": {
+        "street": "41344 Titilope Mews",
+        "city": "Adekanbi",
+        "state": "Edo"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Arts",
+      "hire_date": "2024-07-14",
+      "contract_type": "probation",
+      "salary_amount": 693.96,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Simisola Obiageli",
+      "phone": "234809 764 0768",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-3418",
+    "personal_info": {
+      "first_name": "Olufunmi",
+      "last_name": "Aigbiniode",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=OlufunmiAigbiniode",
+      "dob": "1986-11-08",
+      "gender": "female",
+      "blood_group": "O+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 768 8935",
+      "email": "olufunmi.aigbiniode67@school.edu.ng",
+      "address": {
+        "street": "555 Abimbola Isle",
+        "city": "Ibinta",
+        "state": "Nasarawa"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Sciences",
+      "hire_date": "2018-11-20",
+      "contract_type": "permanent",
+      "salary_amount": 449.73,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Toluwani Okonkwo",
-      "phone": "234809 386 0434",
+      "full_name": "Muyiwa Aigbiniode",
+      "phone": "0805391 0490",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-3074",
+    "personal_info": {
+      "first_name": "Ireti",
+      "last_name": "Mayowa",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IretiMayowa",
+      "dob": "2002-08-25",
+      "gender": "female",
+      "blood_group": "B+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0703 914 0846",
+      "email": "ireti.mayowa68@school.edu.ng",
+      "address": {
+        "street": "9208 Egbochukwu Knoll",
+        "city": "Addo",
+        "state": "Ogun"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Vocational",
+      "hire_date": "2021-04-20",
+      "contract_type": "probation",
+      "salary_amount": 68.01,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Bankole Mayowa",
+      "phone": "0703 529 4213",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-6318",
+    "personal_info": {
+      "first_name": "Chisom",
+      "last_name": "Omobolaji-Aligbe",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChisomOmobolaji-Aligbe",
+      "dob": "2003-04-05",
+      "gender": "female",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0703 543 1767",
+      "email": "chisom_omobolaji-aligbe@school.edu.ng",
+      "address": {
+        "street": "610 Emmanuel Springs",
+        "city": "Ibasa",
+        "state": "Nasarawa"
+      }
+    },
+    "employment": {
+      "job_title": "Future Web Designer",
+      "department": "Admin",
+      "hire_date": "2024-03-07",
+      "contract_type": "probation",
+      "salary_amount": 129.87,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Sekinat Omobolaji-Aligbe",
+      "phone": "0803 257 4059",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-2440",
+    "personal_info": {
+      "first_name": "Chinyere",
+      "last_name": "Habeeb",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChinyereHabeeb",
+      "dob": "1982-01-26",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 355 0732",
+      "email": "chinyere.habeeb74@school.edu.ng",
+      "address": {
+        "street": "29975 Esther-Habeeb Glens",
+        "city": "Fobir",
+        "state": "Kano"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Vocational",
+      "hire_date": "2025-11-12",
+      "contract_type": "permanent",
+      "salary_amount": 442.1,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Simisola Habeeb",
+      "phone": "+234 802 388 8277",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-4558",
+    "personal_info": {
+      "first_name": "Aminat",
+      "last_name": "Israel",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AminatIsrael",
+      "dob": "1980-10-01",
+      "gender": "male",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0703 991 7263",
+      "email": "aminat.israel@school.edu.ng",
+      "address": {
+        "street": "15519 Latifat Canyon",
+        "city": "Ijesa-Tedo",
+        "state": "Rivers"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Vocational",
+      "hire_date": "2020-12-24",
+      "contract_type": "part-time",
+      "salary_amount": 19.35,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Mohammed Israel",
+      "phone": "234809 569 6174",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-3400",
+    "personal_info": {
+      "first_name": "Muyiwa",
+      "last_name": "Bello",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=MuyiwaBello",
+      "dob": "1971-09-10",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 077 8163",
+      "email": "muyiwa.bello@school.edu.ng",
+      "address": {
+        "street": "316 Mobolaji Center",
+        "city": "Gbagidan",
+        "state": "Kaduna"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Arts",
+      "hire_date": "2018-11-20",
+      "contract_type": "permanent",
+      "salary_amount": 466.61,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Gbemisola Bello",
+      "phone": "0805613 1314",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-4267",
+    "personal_info": {
+      "first_name": "Ayinde",
+      "last_name": "Olasunkanmi-fasayo",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AyindeOlasunkanmi-fasayo",
+      "dob": "1987-07-08",
+      "gender": "male",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0803 048 5530",
+      "email": "ayinde_olasunkanmi-fasayo@school.edu.ng",
+      "address": {
+        "street": "822 Wilcox Points",
+        "city": "Ajebo",
+        "state": "Katsina"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Commercial",
+      "hire_date": "2021-11-16",
+      "contract_type": "part-time",
+      "salary_amount": 546.59,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Remilekun Olasunkanmi-fasayo",
+      "phone": "234809 666 2451",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-8560",
+    "personal_info": {
+      "first_name": "Ireti",
+      "last_name": "Saheed",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IretiSaheed",
+      "dob": "1997-12-07",
+      "gender": "female",
+      "blood_group": "A+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0803 810 6641",
+      "email": "ireti_saheed31@school.edu.ng",
+      "address": {
+        "street": "68388 Elizabeth Courts",
+        "city": "Igboloye",
+        "state": "Sokoto"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Commercial",
+      "hire_date": "2018-07-02",
+      "contract_type": "permanent",
+      "salary_amount": 194.3,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Temitope Saheed",
+      "phone": "+234 802 646 1310",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-6769",
+    "personal_info": {
+      "first_name": "Ifunanya",
+      "last_name": "Okunola",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IfunanyaOkunola",
+      "dob": "2000-11-14",
+      "gender": "male",
+      "blood_group": "O+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 650 2777",
+      "email": "ifunanya_okunola44@school.edu.ng",
+      "address": {
+        "street": "7061 Onome Points",
+        "city": "Ilugboro",
+        "state": "Plateau"
+      }
+    },
+    "employment": {
+      "job_title": "Corporate Functionality Associate",
+      "department": "Admin",
+      "hire_date": "2019-03-11",
+      "contract_type": "probation",
+      "salary_amount": 668.35,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Simisola Okunola",
+      "phone": "234809 472 9805",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-2216",
+    "personal_info": {
+      "first_name": "Jolayemi",
+      "last_name": "Latifat",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=JolayemiLatifat",
+      "dob": "1987-04-30",
+      "gender": "female",
+      "blood_group": "O+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 705 4623",
+      "email": "jolayemi.latifat22@school.edu.ng",
+      "address": {
+        "street": "689 Adewunmi Courts",
+        "city": "Itamaga",
+        "state": "Benue"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Sciences",
+      "hire_date": "2018-10-19",
+      "contract_type": "part-time",
+      "salary_amount": 654.44,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Cherechi Latifat",
+      "phone": "0703 202 0947",
       "relationship": "Spouse"
     }
   },
   {
     "staff_id": "S-3059",
     "personal_info": {
-      "first_name": "Habiba",
-      "last_name": "Olasunkanmi-fasayo",
-      "dob": "1994-06-15",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805896 9434",
-      "email": "habiba.olasunkanmi-fasayo63@school.edu.ng",
-      "address": {
-        "street": "342 Adeboye Stream",
-        "city": "Jinadu",
-        "state": "Ondo"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Sciences",
-      "hire_date": "2019-02-08",
-      "contract_type": "permanent",
-      "salary_amount": 238.21,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Akande Olasunkanmi-fasayo",
-      "phone": "0805762 9466",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-9747",
-    "personal_info": {
-      "first_name": "Uzodimma",
-      "last_name": "Sarah",
-      "dob": "1980-02-04",
-      "gender": "male",
-      "blood_group": "A+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805048 4462",
-      "email": "uzodimma.sarah1@school.edu.ng",
-      "address": {
-        "street": "9532 Damilare Island",
-        "city": "Isawo",
-        "state": "Zamfara"
-      }
-    },
-    "employment": {
-      "job_title": "Central Accountability Designer",
-      "department": "Admin",
-      "hire_date": "2020-09-23",
-      "contract_type": "part-time",
-      "salary_amount": 9.7,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Ebiere Sarah",
-      "phone": "234809 794 8278",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-5783",
-    "personal_info": {
-      "first_name": "Azubuike",
-      "last_name": "Odunayo",
-      "dob": "1965-08-05",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0703 752 7348",
-      "email": "azubuike_odunayo@school.edu.ng",
-      "address": {
-        "street": "8005 Okunola Lane",
-        "city": "Ikoga",
-        "state": "Rivers"
-      }
-    },
-    "employment": {
-      "job_title": "Lead Data Director",
-      "department": "Admin",
-      "hire_date": "2024-08-24",
-      "contract_type": "part-time",
-      "salary_amount": 935.91,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Alade Odunayo",
-      "phone": "+234 802 650 0417",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-8483",
-    "personal_info": {
-      "first_name": "Buchi",
-      "last_name": "Onyinyechukwu",
-      "dob": "2000-01-13",
+      "first_name": "Toluwani",
+      "last_name": "Hanifat",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ToluwaniHanifat",
+      "dob": "1974-07-22",
       "gender": "female",
       "blood_group": "B+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "234809 488 1996",
-      "email": "buchi.onyinyechukwu@school.edu.ng",
+      "phone": "0805026 9097",
+      "email": "toluwani_hanifat@school.edu.ng",
       "address": {
-        "street": "471 Opeyemi River",
-        "city": "Ewu Ebi",
-        "state": "Delta"
+        "street": "1390 Buchi Burgs",
+        "city": "Iseku",
+        "state": "Bayelsa"
       }
     },
     "employment": {
-      "job_title": "Math Teacher",
+      "job_title": "History Teacher",
       "department": "Vocational",
-      "hire_date": "2019-05-29",
+      "hire_date": "2019-12-19",
       "contract_type": "probation",
-      "salary_amount": 184.97,
+      "salary_amount": 313.87,
       "currency": "NGN",
       "status": "on-leave"
     },
     "emergency_contact": {
-      "full_name": "Johnson Onyinyechukwu",
-      "phone": "0803 492 8780",
-      "relationship": "Parent"
+      "full_name": "Ifunanya Hanifat",
+      "phone": "0703 602 1668",
+      "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-7890",
+    "staff_id": "S-2728",
     "personal_info": {
-      "first_name": "Onoriode",
-      "last_name": "Tolulope",
-      "dob": "1998-06-07",
+      "first_name": "Ayinde",
+      "last_name": "Ayobami",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AyindeAyobami",
+      "dob": "2001-08-02",
       "gender": "male",
       "blood_group": "O+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0703 348 3710",
-      "email": "onoriode_tolulope73@school.edu.ng",
+      "phone": "+234 802 916 2592",
+      "email": "ayinde.ayobami35@school.edu.ng",
       "address": {
-        "street": "9240 Nwuzor Center",
-        "city": "Idosemo",
-        "state": "Ondo"
+        "street": "62898 Tolulope Forks",
+        "city": "Kajola Iboro",
+        "state": "Yobe"
       }
     },
     "employment": {
-      "job_title": "Human Assurance Technician",
+      "job_title": "Corporate Mobility Consultant",
       "department": "Admin",
-      "hire_date": "2018-05-25",
-      "contract_type": "part-time",
-      "salary_amount": 202.06,
+      "hire_date": "2019-02-22",
+      "contract_type": "probation",
+      "salary_amount": 479.06,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Akanni Ayobami",
+      "phone": "+234 802 841 7961",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-2983",
+    "personal_info": {
+      "first_name": "Chinedu",
+      "last_name": "Afunku",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ChineduAfunku",
+      "dob": "1986-10-20",
+      "gender": "female",
+      "blood_group": "O+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 624 8928",
+      "email": "chinedu.afunku@school.edu.ng",
+      "address": {
+        "street": "6260 Nnamdi Burgs",
+        "city": "Fatedo",
+        "state": "Ekiti"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Vocational",
+      "hire_date": "2016-03-10",
+      "contract_type": "probation",
+      "salary_amount": 845.73,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Ebiere Afunku",
+      "phone": "0805786 9081",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-8402",
+    "personal_info": {
+      "first_name": "Tomiloba",
+      "last_name": "Amaechi-Segunmaru",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=TomilobaAmaechi-Segunmaru",
+      "dob": "1985-02-06",
+      "gender": "male",
+      "blood_group": "O+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0703 900 6397",
+      "email": "tomiloba_amaechi-segunmaru@school.edu.ng",
+      "address": {
+        "street": "3068 Akintade Shoal",
+        "city": "Igboloye",
+        "state": "Kaduna"
+      }
+    },
+    "employment": {
+      "job_title": "Math Teacher",
+      "department": "Sciences",
+      "hire_date": "2016-11-07",
+      "contract_type": "permanent",
+      "salary_amount": 529.5,
       "currency": "NGN",
       "status": "on-leave"
     },
     "emergency_contact": {
-      "full_name": "Ikhidie Tolulope",
-      "phone": "+234 802 836 9866",
+      "full_name": "Titilayo Amaechi-Segunmaru",
+      "phone": "0703 984 9169",
       "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-4657",
+    "staff_id": "S-9543",
     "personal_info": {
-      "first_name": "Nnamdi",
-      "last_name": "Sylvester",
-      "dob": "1989-02-09",
+      "first_name": "Sumayyah",
+      "last_name": "Nojeem",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=SumayyahNojeem",
+      "dob": "1985-08-06",
+      "gender": "male",
+      "blood_group": "O+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0805585 6612",
+      "email": "sumayyah.nojeem@school.edu.ng",
+      "address": {
+        "street": "9691 Mohammed Ferry",
+        "city": "Iseri-Osun",
+        "state": "ADAMAWA"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Commercial",
+      "hire_date": "2019-11-04",
+      "contract_type": "probation",
+      "salary_amount": 918.03,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Adedayo Nojeem",
+      "phone": "0803 033 0215",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-9472",
+    "personal_info": {
+      "first_name": "Shade",
+      "last_name": "Latifat",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ShadeLatifat",
+      "dob": "1972-06-10",
+      "gender": "male",
+      "blood_group": "B+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0805726 4219",
+      "email": "shade_latifat@school.edu.ng",
+      "address": {
+        "street": "589 Ifeoma Street",
+        "city": "Iju Junction",
+        "state": "Kaduna"
+      }
+    },
+    "employment": {
+      "job_title": "District Security Liaison",
+      "department": "Admin",
+      "hire_date": "2018-09-24",
+      "contract_type": "part-time",
+      "salary_amount": 621.78,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Onoriode Latifat",
+      "phone": "0803 766 9440",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-8752",
+    "personal_info": {
+      "first_name": "Omolara",
+      "last_name": "Sabdat",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=OmolaraSabdat",
+      "dob": "1995-02-01",
+      "gender": "female",
+      "blood_group": "AB+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0803 213 2431",
+      "email": "omolara_sabdat84@school.edu.ng",
+      "address": {
+        "street": "9773 Olumide Burgs",
+        "city": "Igbolobi",
+        "state": "Taraba"
+      }
+    },
+    "employment": {
+      "job_title": "International Accounts Developer",
+      "department": "Admin",
+      "hire_date": "2018-12-10",
+      "contract_type": "probation",
+      "salary_amount": 782.99,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Johnson Sabdat",
+      "phone": "0703 861 1666",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-6480",
+    "personal_info": {
+      "first_name": "Gbeminiyi",
+      "last_name": "Mobolaji",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=GbeminiyiMobolaji",
+      "dob": "1998-04-12",
       "gender": "male",
       "blood_group": "A+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "234809 242 1103",
-      "email": "nnamdi.sylvester@school.edu.ng",
+      "phone": "0703 443 4004",
+      "email": "gbeminiyi_mobolaji19@school.edu.ng",
       "address": {
-        "street": "7474 Gbemisola Radial",
-        "city": "Ijofin",
-        "state": "Taraba"
+        "street": "883 Kubra Bypass",
+        "city": "Abegede",
+        "state": "Rivers"
       }
     },
     "employment": {
       "job_title": "Biology Teacher",
-      "department": "Commercial",
-      "hire_date": "2020-10-26",
-      "contract_type": "part-time",
-      "salary_amount": 793.98,
+      "department": "Vocational",
+      "hire_date": "2018-08-10",
+      "contract_type": "permanent",
+      "salary_amount": 681.39,
       "currency": "NGN",
-      "status": "on-leave"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Ikenna Sylvester",
-      "phone": "0703 276 3620",
+      "full_name": "Chimamanda Mobolaji",
+      "phone": "0805114 9365",
       "relationship": "Sibling"
     }
   },
   {
-    "staff_id": "S-8984",
+    "staff_id": "S-7684",
     "personal_info": {
-      "first_name": "Emmanuel",
-      "last_name": "Oyinkansola",
-      "dob": "1989-07-05",
+      "first_name": "Yusuf",
+      "last_name": "Ladega",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=YusufLadega",
+      "dob": "1966-01-08",
       "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Christianity"
+      "blood_group": "O-",
+      "religion": "Islam"
     },
     "contact": {
-      "phone": "+234 802 521 4855",
-      "email": "emmanuel_oyinkansola77@school.edu.ng",
+      "phone": "+234 802 958 7235",
+      "email": "yusuf.ladega@school.edu.ng",
       "address": {
-        "street": "340 Tari Mountain",
-        "city": "Apese",
-        "state": "Ogun"
+        "street": "21637 Aigbiniode Light",
+        "city": "Dosemo",
+        "state": "Plateau"
       }
     },
     "employment": {
-      "job_title": "Physics Teacher",
+      "job_title": "Central Response Designer",
+      "department": "Admin",
+      "hire_date": "2018-12-12",
+      "contract_type": "probation",
+      "salary_amount": 436.19,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Augustina Ladega",
+      "phone": "0803 904 1421",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-3968",
+    "personal_info": {
+      "first_name": "Kayode",
+      "last_name": "Bello",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=KayodeBello",
+      "dob": "2004-01-10",
+      "gender": "male",
+      "blood_group": "O+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0803 819 5642",
+      "email": "kayode.bello@school.edu.ng",
+      "address": {
+        "street": "2600 Gbeminiyi Plain",
+        "city": "Ijofin",
+        "state": "Imo"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
       "department": "Sciences",
-      "hire_date": "2016-10-25",
-      "contract_type": "part-time",
-      "salary_amount": 34.11,
+      "hire_date": "2024-04-18",
+      "contract_type": "probation",
+      "salary_amount": 150.09,
       "currency": "NGN",
       "status": "inactive"
     },
     "emergency_contact": {
-      "full_name": "Sumayyah Oyinkansola",
-      "phone": "0703 278 9787",
-      "relationship": "Sibling"
+      "full_name": "Damilare Bello",
+      "phone": "0703 576 2510",
+      "relationship": "Spouse"
     }
   },
   {
-    "staff_id": "S-6291",
+    "staff_id": "S-1076",
     "personal_info": {
-      "first_name": "Ireti",
-      "last_name": "Ogunbanwo",
-      "dob": "1966-02-13",
+      "first_name": "Kubra",
+      "last_name": "Balogun",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=KubraBalogun",
+      "dob": "1978-08-24",
+      "gender": "male",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0703 951 5871",
+      "email": "kubra_balogun@school.edu.ng",
+      "address": {
+        "street": "344 Saheed Harbor",
+        "city": "Adata",
+        "state": "Kebbi"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Vocational",
+      "hire_date": "2026-01-01",
+      "contract_type": "permanent",
+      "salary_amount": 689.47,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Abimbola Balogun",
+      "phone": "+234 802 581 4902",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-9809",
+    "personal_info": {
+      "first_name": "Akande",
+      "last_name": "Jamiu",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AkandeJamiu",
+      "dob": "1969-11-24",
+      "gender": "male",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "234809 946 5812",
+      "email": "akande_jamiu15@school.edu.ng",
+      "address": {
+        "street": "303 Shalewa Manor",
+        "city": "Agboju",
+        "state": "Lagos"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Arts",
+      "hire_date": "2025-09-16",
+      "contract_type": "permanent",
+      "salary_amount": 726.35,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Rotimi Jamiu",
+      "phone": "+234 802 812 7479",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-3025",
+    "personal_info": {
+      "first_name": "Funmilade",
+      "last_name": "Aremu",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=FunmiladeAremu",
+      "dob": "1977-12-03",
       "gender": "female",
       "blood_group": "B+",
       "religion": "Islam"
     },
     "contact": {
-      "phone": "0703 745 5157",
-      "email": "ireti_ogunbanwo3@school.edu.ng",
+      "phone": "0703 621 3424",
+      "email": "funmilade.aremu@school.edu.ng",
       "address": {
-        "street": "6735 Titilope Crossing",
-        "city": "Asunora",
-        "state": "Taraba"
+        "street": "9889 Nnamdi Wall",
+        "city": "Age Mowo",
+        "state": "Katsina"
       }
     },
     "employment": {
-      "job_title": "International Quality Officer",
-      "department": "Admin",
-      "hire_date": "2024-11-03",
-      "contract_type": "probation",
-      "salary_amount": 316.3,
+      "job_title": "Math Teacher",
+      "department": "Arts",
+      "hire_date": "2024-01-28",
+      "contract_type": "part-time",
+      "salary_amount": 61.48,
       "currency": "NGN",
-      "status": "inactive"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Chinedu Ogunbanwo",
-      "phone": "0703 092 9918",
+      "full_name": "Ikhidie Aremu",
+      "phone": "234809 970 2966",
       "relationship": "Parent"
     }
   },
   {
-    "staff_id": "S-4177",
+    "staff_id": "S-6836",
     "personal_info": {
-      "first_name": "Bankole",
-      "last_name": "Olutola",
-      "dob": "1976-08-04",
-      "gender": "female",
-      "blood_group": "A+",
+      "first_name": "Ifeoma",
+      "last_name": "Isaac",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IfeomaIsaac",
+      "dob": "2002-08-12",
+      "gender": "male",
+      "blood_group": "O-",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "+234 802 226 2707",
-      "email": "bankole_olutola92@school.edu.ng",
+      "phone": "0805538 4573",
+      "email": "ifeoma.isaac93@school.edu.ng",
       "address": {
-        "street": "48763 Onome Islands",
-        "city": "Iganmu",
+        "street": "67500 Adewale Junctions",
+        "city": "Animashawun",
+        "state": "Ondo"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Commercial",
+      "hire_date": "2016-08-05",
+      "contract_type": "probation",
+      "salary_amount": 765.81,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Akanni Isaac",
+      "phone": "+234 802 741 5962",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-5288",
+    "personal_info": {
+      "first_name": "Tari",
+      "last_name": "Ayomide",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=TariAyomide",
+      "dob": "1992-11-04",
+      "gender": "female",
+      "blood_group": "AB+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0805042 6792",
+      "email": "tari_ayomide81@school.edu.ng",
+      "address": {
+        "street": "47204 Babatunde Ridges",
+        "city": "Idi Iroko",
+        "state": "Kogi"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Sciences",
+      "hire_date": "2018-09-18",
+      "contract_type": "probation",
+      "salary_amount": 782.02,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Funmilade Ayomide",
+      "phone": "+234 802 753 1624",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-4385",
+    "personal_info": {
+      "first_name": "Omolara",
+      "last_name": "Babatunde",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=OmolaraBabatunde",
+      "dob": "1981-07-23",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 008 4967",
+      "email": "omolara.babatunde@school.edu.ng",
+      "address": {
+        "street": "913 Ogunbanwo Ways",
+        "city": "Alagba",
+        "state": "Niger"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Arts",
+      "hire_date": "2017-11-30",
+      "contract_type": "part-time",
+      "salary_amount": 758.19,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Sekinat Babatunde",
+      "phone": "234809 698 8215",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-6253",
+    "personal_info": {
+      "first_name": "Ifeoma",
+      "last_name": "Aminat",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IfeomaAminat",
+      "dob": "1987-09-28",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0805830 7254",
+      "email": "ifeoma.aminat@school.edu.ng",
+      "address": {
+        "street": "26653 Sname Rapids",
+        "city": "Igbodu",
+        "state": "Cross River"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Arts",
+      "hire_date": "2016-05-04",
+      "contract_type": "part-time",
+      "salary_amount": 399.35,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Musa Aminat",
+      "phone": "234809 960 8683",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-6938",
+    "personal_info": {
+      "first_name": "Ebiowei",
+      "last_name": "Iyalla",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=EbioweiIyalla",
+      "dob": "1967-01-07",
+      "gender": "female",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0803 944 9381",
+      "email": "ebiowei_iyalla94@school.edu.ng",
+      "address": {
+        "street": "671 Shalewa Vista",
+        "city": "Igboshere",
+        "state": "Ebonyi"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Commercial",
+      "hire_date": "2017-05-31",
+      "contract_type": "probation",
+      "salary_amount": 501.69,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Habiba Iyalla",
+      "phone": "+234 802 884 3886",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-2821",
+    "personal_info": {
+      "first_name": "Obioma",
+      "last_name": "Olumide",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ObiomaOlumide",
+      "dob": "1978-02-09",
+      "gender": "male",
+      "blood_group": "B+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0703 371 1373",
+      "email": "obioma_olumide@school.edu.ng",
+      "address": {
+        "street": "141 Chizoba Forest",
+        "city": "Gbogbo",
+        "state": "Ebonyi"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Commercial",
+      "hire_date": "2020-10-21",
+      "contract_type": "permanent",
+      "salary_amount": 523.31,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Sekinat Olumide",
+      "phone": "+234 802 347 4828",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-7675",
+    "personal_info": {
+      "first_name": "Obioma",
+      "last_name": "Israel",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=ObiomaIsrael",
+      "dob": "1975-12-23",
+      "gender": "male",
+      "blood_group": "AB+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0703 074 9478",
+      "email": "obioma.israel24@school.edu.ng",
+      "address": {
+        "street": "89519 Ogunbanwo-Gbadamosi Estate",
+        "city": "Jinadu",
+        "state": "ABIA"
+      }
+    },
+    "employment": {
+      "job_title": "Biology Teacher",
+      "department": "Vocational",
+      "hire_date": "2023-08-02",
+      "contract_type": "part-time",
+      "salary_amount": 198.84,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Omawunmi Israel",
+      "phone": "0805347 9736",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-7241",
+    "personal_info": {
+      "first_name": "Emmanuel",
+      "last_name": "Ngozi",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=EmmanuelNgozi",
+      "dob": "1974-03-31",
+      "gender": "male",
+      "blood_group": "O-",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0805120 5807",
+      "email": "emmanuel_ngozi@school.edu.ng",
+      "address": {
+        "street": "3441 Ogunwande Stravenue",
+        "city": "Dankaka",
         "state": "Bayelsa"
       }
     },
     "employment": {
       "job_title": "Physics Teacher",
       "department": "Commercial",
-      "hire_date": "2021-04-10",
-      "contract_type": "probation",
-      "salary_amount": 753.34,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Toke Olutola",
-      "phone": "234809 178 5013",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-1619",
-    "personal_info": {
-      "first_name": "Chizoba",
-      "last_name": "Onohinosen",
-      "dob": "1969-02-14",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0703 418 7659",
-      "email": "chizoba_onohinosen@school.edu.ng",
-      "address": {
-        "street": "1097 Funmilayo Crescent",
-        "city": "Afowo Doforo",
-        "state": "FCT"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Arts",
-      "hire_date": "2022-02-04",
+      "hire_date": "2025-10-19",
       "contract_type": "permanent",
-      "salary_amount": 127.92,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Azubuike Onohinosen",
-      "phone": "234809 543 5715",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-4558",
-    "personal_info": {
-      "first_name": "Adeboye",
-      "last_name": "Isokun-Adegboye",
-      "dob": "1982-05-02",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "234809 268 8006",
-      "email": "adeboye_isokun-adegboye22@school.edu.ng",
-      "address": {
-        "street": "91783 Titilope Key",
-        "city": "Awoyaya",
-        "state": "Kwara"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Vocational",
-      "hire_date": "2022-11-05",
-      "contract_type": "part-time",
-      "salary_amount": 829.36,
+      "salary_amount": 853.87,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Titilayo Isokun-Adegboye",
-      "phone": "234809 488 3369",
+      "full_name": "Gbemisola Ngozi",
+      "phone": "234809 545 0571",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-2443",
+    "personal_info": {
+      "first_name": "Adaugo",
+      "last_name": "Sarah",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AdaugoSarah",
+      "dob": "1993-05-23",
+      "gender": "female",
+      "blood_group": "O-",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "234809 816 3476",
+      "email": "adaugo.sarah@school.edu.ng",
+      "address": {
+        "street": "167 Akande Hollow",
+        "city": "Bandu",
+        "state": "Lagos"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Arts",
+      "hire_date": "2022-08-13",
+      "contract_type": "permanent",
+      "salary_amount": 858.91,
+      "currency": "NGN",
+      "status": "inactive"
+    },
+    "emergency_contact": {
+      "full_name": "Emmanuel Sarah",
+      "phone": "0803 175 8669",
       "relationship": "Sibling"
     }
   },
   {
-    "staff_id": "S-3393",
+    "staff_id": "S-6883",
     "personal_info": {
-      "first_name": "Ayebatari",
-      "last_name": "Jimoh-Olufeyikemi",
-      "dob": "2003-11-16",
+      "first_name": "Ebiere",
+      "last_name": "Olasunkanmi-fasayo",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=EbiereOlasunkanmi-fasayo",
+      "dob": "1967-08-21",
       "gender": "male",
       "blood_group": "O-",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0703 179 1500",
-      "email": "ayebatari.jimoh-olufeyikemi5@school.edu.ng",
+      "phone": "234809 976 6874",
+      "email": "ebiere.olasunkanmi-fasayo@school.edu.ng",
       "address": {
-        "street": "8398 Olaoluwa Run",
-        "city": "Ibode",
+        "street": "6133 Ayinde Row",
+        "city": "Ikawga-Zebe",
+        "state": "Niger"
+      }
+    },
+    "employment": {
+      "job_title": "History Teacher",
+      "department": "Sciences",
+      "hire_date": "2024-05-16",
+      "contract_type": "part-time",
+      "salary_amount": 635.76,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Azubuike Olasunkanmi-fasayo",
+      "phone": "234809 445 2477",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-8334",
+    "personal_info": {
+      "first_name": "Omawunmi",
+      "last_name": "Onyinyechukwu",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=OmawunmiOnyinyechukwu",
+      "dob": "1966-02-17",
+      "gender": "female",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0805208 4384",
+      "email": "omawunmi_onyinyechukwu@school.edu.ng",
+      "address": {
+        "street": "32912 Yusuf Passage",
+        "city": "Gbesse",
+        "state": "Oyo"
+      }
+    },
+    "employment": {
+      "job_title": "Future Interactions Developer",
+      "department": "Admin",
+      "hire_date": "2018-09-03",
+      "contract_type": "part-time",
+      "salary_amount": 392.72,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Kemi Onyinyechukwu",
+      "phone": "0703 293 5244",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-7593",
+    "personal_info": {
+      "first_name": "Isioma",
+      "last_name": "Yaqub",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IsiomaYaqub",
+      "dob": "1968-07-30",
+      "gender": "female",
+      "blood_group": "A+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0803 520 7587",
+      "email": "isioma_yaqub36@school.edu.ng",
+      "address": {
+        "street": "831 Titilayo Bridge",
+        "city": "Gana",
+        "state": "Cross River"
+      }
+    },
+    "employment": {
+      "job_title": "Physics Teacher",
+      "department": "Vocational",
+      "hire_date": "2017-04-02",
+      "contract_type": "probation",
+      "salary_amount": 162.33,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Emmanuel Yaqub",
+      "phone": "+234 802 124 0427",
+      "relationship": "Spouse"
+    }
+  },
+  {
+    "staff_id": "S-7042",
+    "personal_info": {
+      "first_name": "Esse",
+      "last_name": "Jimoh-Obianuju",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=EsseJimoh-Obianuju",
+      "dob": "1969-10-07",
+      "gender": "female",
+      "blood_group": "B+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "+234 802 885 5558",
+      "email": "esse_jimoh-obianuju@school.edu.ng",
+      "address": {
+        "street": "86293 Adaugo Dale",
+        "city": "Iteku",
+        "state": "Osun"
+      }
+    },
+    "employment": {
+      "job_title": "Legacy Integration Officer",
+      "department": "Admin",
+      "hire_date": "2021-01-11",
+      "contract_type": "probation",
+      "salary_amount": 910.33,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Adeboye Jimoh-Obianuju",
+      "phone": "0805052 3645",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-3295",
+    "personal_info": {
+      "first_name": "Akande",
+      "last_name": "Agboola",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AkandeAgboola",
+      "dob": "1971-06-13",
+      "gender": "female",
+      "blood_group": "A+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "+234 802 099 2145",
+      "email": "akande_agboola@school.edu.ng",
+      "address": {
+        "street": "1850 Temitope Walks",
+        "city": "Ajibo",
+        "state": "Ogun"
+      }
+    },
+    "employment": {
+      "job_title": "Central Research Orchestrator",
+      "department": "Admin",
+      "hire_date": "2017-02-27",
+      "contract_type": "permanent",
+      "salary_amount": 917.62,
+      "currency": "NGN",
+      "status": "on-leave"
+    },
+    "emergency_contact": {
+      "full_name": "Kubura Agboola",
+      "phone": "234809 249 4637",
+      "relationship": "Sibling"
+    }
+  },
+  {
+    "staff_id": "S-4331",
+    "personal_info": {
+      "first_name": "Ifeanyichukwu",
+      "last_name": "Ayomide",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IfeanyichukwuAyomide",
+      "dob": "1995-03-29",
+      "gender": "female",
+      "blood_group": "A+",
+      "religion": "Christianity"
+    },
+    "contact": {
+      "phone": "0703 502 0105",
+      "email": "ifeanyichukwu_ayomide@school.edu.ng",
+      "address": {
+        "street": "7072 Jamiu Path",
+        "city": "Alaparu",
+        "state": "Katsina"
+      }
+    },
+    "employment": {
+      "job_title": "International Implementation Specialist",
+      "department": "Admin",
+      "hire_date": "2025-03-06",
+      "contract_type": "permanent",
+      "salary_amount": 490.34,
+      "currency": "NGN",
+      "status": "active"
+    },
+    "emergency_contact": {
+      "full_name": "Ikhidie Ayomide",
+      "phone": "234809 574 0578",
+      "relationship": "Parent"
+    }
+  },
+  {
+    "staff_id": "S-7315",
+    "personal_info": {
+      "first_name": "Aminu",
+      "last_name": "Elebiyo",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=AminuElebiyo",
+      "dob": "1965-06-25",
+      "gender": "female",
+      "blood_group": "B+",
+      "religion": "Islam"
+    },
+    "contact": {
+      "phone": "0703 288 2809",
+      "email": "aminu.elebiyo@school.edu.ng",
+      "address": {
+        "street": "103 Okunola Ways",
+        "city": "Iragbo",
         "state": "Akwa Ibom"
       }
     },
     "employment": {
-      "job_title": "History Teacher",
-      "department": "Arts",
-      "hire_date": "2016-10-04",
-      "contract_type": "part-time",
-      "salary_amount": 488.74,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Sekinat Jimoh-Olufeyikemi",
-      "phone": "0703 110 7339",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-1763",
-    "personal_info": {
-      "first_name": "Shalewa",
-      "last_name": "Sekinat",
-      "dob": "1996-06-08",
-      "gender": "male",
-      "blood_group": "O-",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "234809 160 4396",
-      "email": "shalewa.sekinat44@school.edu.ng",
-      "address": {
-        "street": "7271 Oluwashina Corner",
-        "city": "Itori",
-        "state": "Anambra"
-      }
-    },
-    "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Sciences",
-      "hire_date": "2018-02-25",
-      "contract_type": "probation",
-      "salary_amount": 109.61,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Emmanuel Sekinat",
-      "phone": "+234 802 796 9615",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-7279",
-    "personal_info": {
-      "first_name": "Ireti",
-      "last_name": "Ademola",
-      "dob": "1996-07-21",
-      "gender": "male",
-      "blood_group": "O-",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "234809 130 5870",
-      "email": "ireti.ademola8@school.edu.ng",
-      "address": {
-        "street": "38650 Oyelude Trail",
-        "city": "Isasi",
-        "state": "Delta"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Sciences",
-      "hire_date": "2021-07-31",
-      "contract_type": "part-time",
-      "salary_amount": 203.22,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Toke Ademola",
-      "phone": "0805046 8326",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-9492",
-    "personal_info": {
-      "first_name": "Emmanuel",
-      "last_name": "Obianuju",
-      "dob": "1997-02-15",
-      "gender": "male",
-      "blood_group": "B+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "234809 690 9054",
-      "email": "emmanuel_obianuju@school.edu.ng",
-      "address": {
-        "street": "498 Amaechi Street",
-        "city": "Ibinta",
-        "state": "Ekiti"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Vocational",
-      "hire_date": "2018-12-09",
-      "contract_type": "part-time",
-      "salary_amount": 640.14,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Gbeminiyi Obianuju",
-      "phone": "+234 802 452 4413",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-3656",
-    "personal_info": {
-      "first_name": "Akunna",
-      "last_name": "Obianuju",
-      "dob": "1968-07-18",
-      "gender": "male",
-      "blood_group": "B+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "+234 802 143 5339",
-      "email": "akunna_obianuju@school.edu.ng",
-      "address": {
-        "street": "22015 Olasunkanmi Underpass",
-        "city": "Itagbo",
-        "state": "Imo"
-      }
-    },
-    "employment": {
       "job_title": "Physics Teacher",
-      "department": "Arts",
-      "hire_date": "2024-12-20",
+      "department": "Vocational",
+      "hire_date": "2019-11-30",
       "contract_type": "part-time",
-      "salary_amount": 447.24,
+      "salary_amount": 40.64,
       "currency": "NGN",
       "status": "on-leave"
     },
     "emergency_contact": {
-      "full_name": "Chimamanda Obianuju",
-      "phone": "0805732 1287",
+      "full_name": "Muyiwa Elebiyo",
+      "phone": "0703 236 4922",
       "relationship": "Parent"
     }
   },
   {
-    "staff_id": "S-1794",
+    "staff_id": "S-5800",
     "personal_info": {
-      "first_name": "Kubura",
-      "last_name": "Omobolaji",
-      "dob": "1976-10-29",
+      "first_name": "Ireti",
+      "last_name": "Aligbe",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IretiAligbe",
+      "dob": "1974-04-30",
       "gender": "female",
-      "blood_group": "AB+",
-      "religion": "Islam"
+      "blood_group": "B+",
+      "religion": "Christianity"
     },
     "contact": {
-      "phone": "0805499 1806",
-      "email": "kubura_omobolaji12@school.edu.ng",
+      "phone": "+234 802 538 0103",
+      "email": "ireti.aligbe53@school.edu.ng",
       "address": {
-        "street": "812 Ehigiator Street",
-        "city": "Amuwo",
-        "state": "Taraba"
+        "street": "3649 Abisola Street",
+        "city": "Asore",
+        "state": "Cross River"
       }
     },
     "employment": {
       "job_title": "Physics Teacher",
-      "department": "Sciences",
-      "hire_date": "2017-04-04",
-      "contract_type": "part-time",
-      "salary_amount": 492.5,
-      "currency": "NGN",
-      "status": "inactive"
-    },
-    "emergency_contact": {
-      "full_name": "Chimamanda Omobolaji",
-      "phone": "0803 368 2091",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-7340",
-    "personal_info": {
-      "first_name": "Bukola",
-      "last_name": "Lawal",
-      "dob": "1993-05-04",
-      "gender": "male",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0803 861 1021",
-      "email": "bukola.lawal4@school.edu.ng",
-      "address": {
-        "street": "781 Tella Creek",
-        "city": "Imoru",
-        "state": "Kaduna"
-      }
-    },
-    "employment": {
-      "job_title": "Biology Teacher",
-      "department": "Commercial",
-      "hire_date": "2022-03-20",
+      "department": "Vocational",
+      "hire_date": "2018-04-29",
       "contract_type": "probation",
-      "salary_amount": 711.05,
+      "salary_amount": 240.33,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Yakubu Lawal",
-      "phone": "0805958 5667",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-4986",
-    "personal_info": {
-      "first_name": "Shade",
-      "last_name": "Adewura",
-      "dob": "1996-11-17",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "+234 802 036 9777",
-      "email": "shade.adewura@school.edu.ng",
-      "address": {
-        "street": "8971 Titi Course",
-        "city": "Abule-Nla",
-        "state": "Taraba"
-      }
-    },
-    "employment": {
-      "job_title": "Direct Infrastructure Representative",
-      "department": "Admin",
-      "hire_date": "2019-11-21",
-      "contract_type": "permanent",
-      "salary_amount": 412.76,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Ifunanya Adewura",
-      "phone": "0703 226 4195",
+      "full_name": "Olumide Aligbe",
+      "phone": "0805553 5991",
       "relationship": "Sibling"
     }
   },
   {
-    "staff_id": "S-2486",
+    "staff_id": "S-6972",
     "personal_info": {
-      "first_name": "Abimbola",
-      "last_name": "Babatunde",
-      "dob": "1993-04-18",
+      "first_name": "Omolara",
+      "last_name": "Iyalla",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=OmolaraIyalla",
+      "dob": "1975-11-24",
       "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0703 663 3551",
-      "email": "abimbola_babatunde29@school.edu.ng",
-      "address": {
-        "street": "7942 Jadesola Pass",
-        "city": "Igbosa",
-        "state": "Imo"
-      }
-    },
-    "employment": {
-      "job_title": "Principal Communications Liaison",
-      "department": "Admin",
-      "hire_date": "2024-11-18",
-      "contract_type": "permanent",
-      "salary_amount": 580.3,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Ayinde Babatunde",
-      "phone": "+234 802 599 3778",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-2061",
-    "personal_info": {
-      "first_name": "Titi",
-      "last_name": "Makuachukwu",
-      "dob": "1996-08-28",
-      "gender": "female",
-      "blood_group": "B+",
+      "blood_group": "O+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0703 533 6922",
-      "email": "titi_makuachukwu32@school.edu.ng",
+      "phone": "0805567 4230",
+      "email": "omolara_iyalla@school.edu.ng",
       "address": {
-        "street": "309 Wasiu-Isokun Brook",
-        "city": "Igboloye",
-        "state": "Kano"
-      }
-    },
-    "employment": {
-      "job_title": "Physics Teacher",
-      "department": "Commercial",
-      "hire_date": "2019-06-15",
-      "contract_type": "probation",
-      "salary_amount": 139.31,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Aminu Makuachukwu",
-      "phone": "+234 802 658 8386",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-1780",
-    "personal_info": {
-      "first_name": "Kemi",
-      "last_name": "Yaqub",
-      "dob": "1985-11-16",
-      "gender": "male",
-      "blood_group": "AB+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "234809 452 0550",
-      "email": "kemi_yaqub@school.edu.ng",
-      "address": {
-        "street": "777 Jolayemi Harbors",
-        "city": "Gidan Hardo",
+        "street": "129 Sname Square",
+        "city": "Ipatira",
         "state": "Bauchi"
       }
     },
     "employment": {
-      "job_title": "Math Teacher",
-      "department": "Arts",
-      "hire_date": "2020-08-07",
-      "contract_type": "part-time",
-      "salary_amount": 551.84,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Kubra Yaqub",
-      "phone": "0803 151 6241",
-      "relationship": "Parent"
-    }
-  },
-  {
-    "staff_id": "S-2280",
-    "personal_info": {
-      "first_name": "Ayebatari",
-      "last_name": "Adewale",
-      "dob": "2003-12-22",
-      "gender": "female",
-      "blood_group": "O+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0803 902 2293",
-      "email": "ayebatari_adewale10@school.edu.ng",
-      "address": {
-        "street": "2106 Alade Inlet",
-        "city": "Isagbo Ere",
-        "state": "Ekiti"
-      }
-    },
-    "employment": {
-      "job_title": "Internal Group Technician",
-      "department": "Admin",
-      "hire_date": "2020-05-28",
-      "contract_type": "permanent",
-      "salary_amount": 916.58,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Tomiloba Adewale",
-      "phone": "0803 552 7498",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-8001",
-    "personal_info": {
-      "first_name": "Buchi",
-      "last_name": "Abodunrin",
-      "dob": "1987-04-20",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0703 335 9728",
-      "email": "buchi_abodunrin97@school.edu.ng",
-      "address": {
-        "street": "57880 Chukwu Extension",
-        "city": "Agboyi",
-        "state": "Kaduna"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Sciences",
-      "hire_date": "2025-10-10",
-      "contract_type": "permanent",
-      "salary_amount": 375.34,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Rasheedah Abodunrin",
-      "phone": "+234 802 980 7954",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-9470",
-    "personal_info": {
-      "first_name": "Shade",
-      "last_name": "Segunmaru",
-      "dob": "1987-01-19",
-      "gender": "female",
-      "blood_group": "B+",
-      "religion": "Christianity"
-    },
-    "contact": {
-      "phone": "0805105 4315",
-      "email": "shade_segunmaru45@school.edu.ng",
-      "address": {
-        "street": "640 Zainab Bypass",
-        "city": "Iru",
-        "state": "Delta"
-      }
-    },
-    "employment": {
-      "job_title": "Forward Mobility Manager",
-      "department": "Admin",
-      "hire_date": "2023-04-23",
-      "contract_type": "permanent",
-      "salary_amount": 142.55,
-      "currency": "NGN",
-      "status": "active"
-    },
-    "emergency_contact": {
-      "full_name": "Ikhidie Segunmaru",
-      "phone": "0805172 8845",
-      "relationship": "Sibling"
-    }
-  },
-  {
-    "staff_id": "S-5712",
-    "personal_info": {
-      "first_name": "Chizoba",
-      "last_name": "Ismail",
-      "dob": "1985-05-26",
-      "gender": "female",
-      "blood_group": "A+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "0803 187 6041",
-      "email": "chizoba.ismail0@school.edu.ng",
-      "address": {
-        "street": "64218 Onoriode Haven",
-        "city": "Fatedo",
-        "state": "Sokoto"
-      }
-    },
-    "employment": {
-      "job_title": "Math Teacher",
-      "department": "Sciences",
+      "job_title": "Physics Teacher",
+      "department": "Vocational",
       "hire_date": "2023-05-25",
-      "contract_type": "probation",
-      "salary_amount": 493.83,
+      "contract_type": "permanent",
+      "salary_amount": 569.9,
       "currency": "NGN",
-      "status": "on-leave"
+      "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Onoriode Ismail",
-      "phone": "234809 840 9414",
+      "full_name": "Ireti Iyalla",
+      "phone": "0703 687 3723",
       "relationship": "Sibling"
     }
   },
   {
-    "staff_id": "S-7756",
+    "staff_id": "S-9946",
     "personal_info": {
-      "first_name": "Olufunmi",
-      "last_name": "Olasunkanmi",
-      "dob": "1986-08-19",
+      "first_name": "Ifunanya",
+      "last_name": "Adeoluwa",
+      "photo_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=IfunanyaAdeoluwa",
+      "dob": "1973-02-23",
       "gender": "female",
-      "blood_group": "B+",
+      "blood_group": "AB+",
       "religion": "Christianity"
     },
     "contact": {
-      "phone": "0703 604 0025",
-      "email": "olufunmi_olasunkanmi@school.edu.ng",
+      "phone": "0703 842 0392",
+      "email": "ifunanya_adeoluwa7@school.edu.ng",
       "address": {
-        "street": "30392 Akanni Hill",
-        "city": "Ayobo",
-        "state": "Akwa Ibom"
+        "street": "9889 Mayowa Lake",
+        "city": "Ajegbenwa",
+        "state": "Ondo"
       }
     },
     "employment": {
       "job_title": "Physics Teacher",
-      "department": "Vocational",
-      "hire_date": "2018-07-14",
+      "department": "Commercial",
+      "hire_date": "2018-05-12",
       "contract_type": "permanent",
-      "salary_amount": 157.81,
-      "currency": "NGN",
-      "status": "on-leave"
-    },
-    "emergency_contact": {
-      "full_name": "Fatima Olasunkanmi",
-      "phone": "+234 802 168 1811",
-      "relationship": "Spouse"
-    }
-  },
-  {
-    "staff_id": "S-6900",
-    "personal_info": {
-      "first_name": "Wale",
-      "last_name": "Omowale-Tella",
-      "dob": "1997-04-19",
-      "gender": "male",
-      "blood_group": "B+",
-      "religion": "Islam"
-    },
-    "contact": {
-      "phone": "234809 647 0079",
-      "email": "wale_omowale-tella83@school.edu.ng",
-      "address": {
-        "street": "8159 Chiamaka Heights",
-        "city": "Ewu",
-        "state": "Imo"
-      }
-    },
-    "employment": {
-      "job_title": "History Teacher",
-      "department": "Vocational",
-      "hire_date": "2021-07-14",
-      "contract_type": "probation",
-      "salary_amount": 178.76,
+      "salary_amount": 304.01,
       "currency": "NGN",
       "status": "active"
     },
     "emergency_contact": {
-      "full_name": "Toke Omowale-Tella",
-      "phone": "234809 514 5267",
-      "relationship": "Parent"
+      "full_name": "Simisola Adeoluwa",
+      "phone": "234809 476 9875",
+      "relationship": "Sibling"
     }
   }
 ]
